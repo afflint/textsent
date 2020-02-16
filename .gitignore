@@ -1,3 +1,9 @@
+# exclude everything from  data
+data/*
+
+# keep data README
+!data/README.md 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
