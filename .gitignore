@@ -1,4 +1,5 @@
 # exclude everything from  data
+*/data/*
 data/*
 
 # keep data README
