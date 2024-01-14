@@ -1,0 +1,3465 @@
+T1	Term 16 22	coffee
+A1	Polarity T1 negative
+A2	Aspect T1 drinks_quality
+T2	Term 49 53	hype
+A3	Polarity T2 negative
+A4	Aspect T2 ambience_general
+T3	Null 27 53	Not worth the price & hype
+A5	Polarity T3 negative
+A6	Aspect T3 restaurant_prices
+T4	Term 70 82	carrot juice
+A7	Polarity T4 positive
+A8	Aspect T4 drinks_quality
+T5	Null 83 101	Im in love with it
+A9	Polarity T5 positive
+A10	Aspect T5 restaurant_general
+T6	Null 102 117	Total rip off!!
+A11	Polarity T6 negative
+A12	Aspect T6 restaurant_general
+T7	Null 118 186	They tried to change us more than double service charge on our bill.
+A13	Polarity T7 negative
+A14	Aspect T7 service_general
+T8	Term 191 202	small pizza
+A15	Polarity T8 negative
+A16	Aspect T8 food_style_options
+T9	Null 269 289	AVOID THIS PLACE!!!!
+A17	Polarity T9 negative
+A18	Aspect T9 restaurant_general
+T10	Term 299 302	bar
+A19	Polarity T10 positive
+A20	Aspect T10 restaurant_general
+T11	Null 317 351	U can find here everything u want)
+A21	Polarity T11 positive
+A22	Aspect T11 restaurant_general
+T12	Term 390 394	food
+A23	Polarity T12 positive
+A24	Aspect T12 food_quality
+T13	Term 402 410	ambience
+A25	Polarity T13 positive
+A26	Aspect T13 ambience_general
+T14	Term 419 427	lighting
+A27	Polarity T14 positive
+A28	Aspect T14 ambience_general
+T15	Term 445 456	mango juice
+A29	Polarity T15 positive
+A30	Aspect T15 drinks_quality
+T16	Term 463 467	food
+A31	Polarity T16 positive
+A32	Aspect T16 food_quality
+T17	Term 483 489	steaks
+A33	Polarity T17 positive
+A34	Aspect T17 food_quality
+T18	Null 505 529	Thumbs up all the way!!!
+A35	Polarity T18 positive
+A36	Aspect T18 restaurant_general
+T19	Term 530 535	Pasta
+A37	Polarity T19 negative
+A38	Aspect T19 food_quality
+T20	Term 547 555	Mushroom
+A39	Polarity T20 negative
+A40	Aspect T20 food_quality
+T21	Term 567 576	lemon tea
+A41	Polarity T21 negative
+A42	Aspect T21 drinks_quality
+T22	Null 606 616	Super bad!
+A43	Polarity T22 negative
+A44	Aspect T22 food_quality
+T23	Null 617 625	Dun try!
+A45	Polarity T23 negative
+A46	Aspect T23 restaurant_general
+T24	Term 645 660	vegetarian fare
+A47	Polarity T24 positive
+A48	Aspect T24 food_quality
+T25	Term 667 677	soy coffee
+A49	Polarity T25 positive
+A50	Aspect T25 drinks_quality
+T26	Null 746 756	Delicious!
+A51	Polarity T26 positive
+A52	Aspect T26 food_quality
+T27	Term 775 787	bourbon list
+A53	Polarity T27 positive
+A54	Aspect T27 drinks_style_options
+T28	Term 807 812	fries
+A55	Polarity T28 negative
+A56	Aspect T28 food_style_options
+T29	Term 825 832	Burgers
+A57	Polarity T29 positive
+A58	Aspect T29 food_quality
+T30	Term 853 864	onion rings
+A59	Polarity T30 positive
+A60	Aspect T30 food_quality
+T31	Term 873 888	chocolate shake
+A61	Polarity T31 positive
+A62	Aspect T31 drinks_quality
+T32	Null 911 940	:) A must try if in the area.
+A63	Polarity T32 positive
+A64	Aspect T32 restaurant_general
+T33	Term 982 1000	spiced apple drink
+A65	Polarity T33 positive
+A66	Aspect T33 drinks_quality
+T34	Term 1006 1023	ice vanilla latte
+A67	Polarity T34 positive
+A68	Aspect T34 drinks_quality
+T35	Term 1028 1041	chic o cheese
+A69	Polarity T35 positive
+A70	Aspect T35 food_style_options
+T36	Null 1064 1076	Pretty cool!
+A71	Polarity T36 positive
+A72	Aspect T36 restaurant_general
+T37	Term 1085 1089	cafe
+A73	Polarity T37 positive
+A74	Aspect T37 restaurant_general
+T38	Term 1141 1145	food
+A75	Polarity T38 positive
+A76	Aspect T38 food_quality
+T39	Term 1157 1164	service
+A77	Polarity T39 positive
+A78	Aspect T39 service_general
+T40	Null 1166 1178	Great prices
+A79	Polarity T40 positive
+A80	Aspect T40 restaurant_prices
+T41	Term 1257 1275	lime/mint lemonade
+A81	Polarity T41 positive
+A82	Aspect T41 drinks_quality
+T42	Term 1214 1224	atmosphere
+A83	Polarity T42 positive
+A84	Aspect T42 ambience_general
+T43	Null 1277 1308	Ben here 4 times in last month.
+A85	Polarity T43 positive
+A86	Aspect T43 restaurant_general
+T44	Term 1319 1324	sushi
+A87	Polarity T44 positive
+A88	Aspect T44 food_quality
+T45	Term 1333 1341	fashions
+A89	Polarity T45 positive
+A90	Aspect T45 ambience_general
+T46	Term 1343 1348	Music
+A91	Polarity T46 negative
+T47	Term 1427 1432	wings
+A92	Polarity T47 positive
+A93	Aspect T47 food_quality
+T48	Term 1511 1554	pumpkin bagel with the pumpkin cream cheese
+A94	Polarity T48 positive
+A95	Aspect T48 food_quality
+T49	Null 1579 1597	Did this..Love it.
+A96	Polarity T49 positive
+A97	Aspect T49 restaurant_general
+T50	Term 1598 1603	Chips
+A98	Polarity T50 positive
+A99	Aspect T50 food_quality
+T51	Term 1608 1617	wam salsa
+A100	Polarity T51 positive
+A101	Aspect T51 food_quality
+T52	Null 1619 1629	Delicious!
+A102	Polarity T52 positive
+A103	Aspect T52 food_quality
+T53	Term 1638 1651	calamari Taco
+A104	Polarity T53 positive
+A105	Aspect T53 food_quality
+T54	Term 1690 1705	chocolate babka
+A106	Polarity T54 positive
+A107	Aspect T54 food_quality
+T55	Term 1883 1888	Beers
+A108	Polarity T55 positive
+A109	Aspect T55 drinks_style_options
+T56	Term 1914 1919	place
+A110	Polarity T56 positive
+A111	Aspect T56 restaurant_general
+T57	Term 1925 1930	place
+A112	Polarity T57 positive
+A113	Aspect T57 restaurant_general
+T58	Term 1937 1943	coffee
+A114	Polarity T58 positive
+A115	Aspect T58 drinks_quality
+T59	Null 1932 1959	Good coffee not bad prices.
+A116	Polarity T59 positive
+A117	Aspect T59 restaurant_prices
+T60	Term 1968 1972	menu
+A118	Polarity T60 negative
+A119	Aspect T60 food_style_options
+T61	Term 2049 2053	food
+A120	Polarity T61 positive
+A121	Aspect T61 food_quality
+T62	Term 2055 2062	Parking
+A122	Polarity T62 negative
+A123	Aspect T62 restaurant_miscellaneous
+T63	Term 2087 2096	red beans
+A124	Polarity T63 positive
+A125	Aspect T63 food_quality
+T64	Term 2101 2105	rice
+A126	Polarity T64 positive
+A127	Aspect T64 food_quality
+T65	Null 2148 2176	This is my fourth time here.
+A128	Polarity T65 positive
+A129	Aspect T65 restaurant_general
+T66	Null 2177 2207	Gets better every single time.
+A130	Polarity T66 positive
+A131	Aspect T66 restaurant_general
+T67	Term 2217 2223	shrimp
+A132	Polarity T67 positive
+A133	Aspect T67 food_quality
+T68	Term 2230 2235	salad
+A134	Polarity T68 negative
+A135	Aspect T68 food_quality
+T69	Term 2240 2257	Nutella Tiramissu
+A136	Polarity T69 negative
+A137	Aspect T69 food_quality
+T70	Null 2259 2264	Enjoy
+A138	Polarity T70 positive
+A139	Aspect T70 restaurant_general
+T71	Term 2282 2286	food
+A140	Polarity T71 positive
+A141	Aspect T71 food_quality
+T72	Null 2299 2386	But If you want tortillas they will charge you for mere 2 tortillas (that is not right)
+A142	Polarity T72 negative
+A143	Aspect T72 restaurant_prices
+T73	Term 2387 2395	Waitress
+A144	Polarity T73 negative
+A145	Aspect T73 service_general
+T74	Null 2413 2470	Doesn't know how to properly pour water out of a pitcher.
+A146	Polarity T74 negative
+A147	Aspect T74 service_general
+T75	Term 2471 2475	Food
+A148	Polarity T75 positive
+A149	Aspect T75 food_quality
+T76	Term 2510 2515	place
+A150	Polarity T76 positive
+A151	Aspect T76 ambience_general
+T77	Term 2616 2632	Chicken teriyaki
+A152	Polarity T77 positive
+A153	Aspect T77 food_quality
+T78	Term 2642 2652	vegetables
+A154	Polarity T78 positive
+A155	Aspect T78 food_quality
+T79	Term 2682 2689	portion
+A156	Polarity T79 positive
+A157	Aspect T79 food_style_options
+T80	Term 2520 2524	guys
+A158	Polarity T80 negative
+A159	Aspect T80 service_general
+T81	Term 2743 2747	food
+A160	Polarity T81 positive
+A161	Aspect T81 food_quality
+T82	Term 2759 2766	address
+A162	Polarity T82 positive
+A163	Aspect T82 restaurant_general
+T83	Term 2782 2790	"keskek"
+A164	Polarity T83 positive
+A165	Aspect T83 food_quality
+T84	Term 2848 2866	Red Velvet Waffles
+A166	Polarity T84 positive
+A167	Aspect T84 food_quality
+T85	Term 2887 2892	owner
+A168	Polarity T85 positive
+A169	Aspect T85 service_general
+T86	Term 2923 2927	pies
+A170	Polarity T86 positive
+A171	Aspect T86 food_quality
+T87	Term 2968 2979	Dutch Apple
+A172	Polarity T87 positive
+A173	Aspect T87 food_quality
+T88	Null 3001 3066	Medium coffee + oatmeal for $3.50 = a great way to start the day.
+A174	Polarity T88 positive
+A175	Aspect T88 restaurant_prices
+T89	Term 3084 3098	beer selection
+A176	Polarity T89 positive
+A177	Aspect T89 drinks_style_options
+T90	Term 3106 3118	food choices
+A178	Polarity T90 positive
+A179	Aspect T90 food_style_options
+T91	Term 3143 3148	music
+A180	Polarity T91 negative
+A181	Aspect T91 ambience_general
+T92	Term 3165 3169	meze
+A182	Polarity T92 positive
+A183	Aspect T92 food_quality
+T93	Term 3177 3184	balcony
+A184	Polarity T93 positive
+A185	Aspect T93 location_general
+T94	Term 3232 3242	McDonald's
+A186	Polarity T94 negative
+A187	Aspect T94 service_general
+T95	Term 3260 3273	Atticus Finch
+A188	Polarity T95 positive
+A189	Aspect T95 food_quality
+T96	Term 3281 3288	burgers
+A190	Polarity T96 negative
+A191	Aspect T96 food_quality
+T97	Term 3310 3317	Grill'd
+A192	Polarity T97 negative
+A193	Aspect T97 restaurant_general
+T98	Term 3365 3380	Danny's Burgers
+A194	Polarity T98 positive
+A195	Aspect T98 restaurant_general
+T99	Term 3408 3422	butter chicken
+A196	Polarity T99 negative
+A197	Aspect T99 food_quality
+T100	Term 3525 3530	bread
+A198	Polarity T100 negative
+A199	Aspect T100 food_quality
+T101	Term 3549 3556	service
+A200	Polarity T101 negative
+A201	Aspect T101 service_general
+T102	Term 3591 3598	service
+A202	Polarity T102 positive
+A203	Aspect T102 service_general
+T103	Term 3623 3640	Chicago 7 calzone
+A204	Polarity T103 positive
+A205	Aspect T103 food_quality
+T104	Term 3646 3658	chicken wing
+A206	Polarity T104 positive
+A207	Aspect T104 food_quality
+T105	Term 3690 3709	Chicken Greek Salad
+A208	Polarity T105 positive
+A209	Aspect T105 food_quality
+T106	Term 3710 3719	Breakfast
+A210	Polarity T106 negative
+A211	Aspect T106 food_quality
+T107	Term 3734 3740	server
+A212	Polarity T107 negative
+A213	Aspect T107 service_general
+T108	Term 3856 3861	table
+A214	Polarity T108 negative
+A215	Aspect T108 ambience_general
+T109	Term 3876 3880	food
+A216	Polarity T109 negative
+A217	Aspect T109 food_quality
+T110	Term 3909 3913	food
+A218	Polarity T110 positive
+A219	Aspect T110 food_quality
+T111	Term 3915 3919	kids
+A220	Polarity T111 negative
+A221	Aspect T111 ambience_general
+T112	Term 3943 3957	shrimp risotto
+A222	Polarity T112 positive
+A223	Aspect T112 food_quality
+T113	Term 3992 4002	breakfasts
+A224	Polarity T113 positive
+A225	Aspect T113 food_quality
+T114	Term 4023 4027	cafè
+A226	Polarity T114 positive
+A227	Aspect T114 ambience_general
+T115	Term 4048 4053	Staff
+A228	Polarity T115 positive
+A229	Aspect T115 service_general
+T116	Term 4136 4153	selection of jams
+A230	Polarity T116 positive
+A231	Aspect T116 food_style_options
+T117	Term 4092 4102	Everything
+A232	Polarity T117 positive
+A233	Aspect T117 food_style_options
+T118	Term 4161 4174	beef salpicao
+A234	Polarity T118 positive
+A235	Aspect T118 food_quality
+T119	Term 4194 4202	ambience
+A236	Polarity T119 positive
+A237	Aspect T119 ambience_general
+T120	Term 4212 4219	service
+A238	Polarity T120 positive
+T121	Null 4221 4232	We love it!
+A239	Polarity T121 positive
+A240	Aspect T121 restaurant_general
+T122	Term 4404 4409	place
+A241	Polarity T122 positive
+A242	Aspect T122 ambience_general
+T123	Term 4442 4448	people
+A243	Polarity T123 positive
+A244	Aspect T123 ambience_general
+T124	Term 4458 4462	food
+A245	Aspect T124 food_quality
+A246	Polarity T124 positive
+T125	Null 4392 4477	It's a nice place,quiet and comfortable with nice people and good food...I recommend.
+A247	Polarity T125 positive
+A248	Aspect T125 restaurant_general
+T126	Term 4566 4570	food
+A249	Aspect T126 food_quality
+T127	Term 4584 4589	place
+A250	Polarity T127 positive
+A251	Aspect T127 restaurant_general
+T128	Null 4572 4653	Nice simple place, fish and sea food available, prices are fine and easy to park.
+A252	Polarity T128 positive
+A253	Aspect T128 restaurant_prices
+T129	Null 4572 4653	Nice simple place, fish and sea food available, prices are fine and easy to park.
+A254	Polarity T129 positive
+A255	Aspect T129 location_general
+T130	Null 4698 4732	Give it a try when around bathing.
+A256	Polarity T130 positive
+A257	Aspect T130 restaurant_general
+T131	Term 4888 4896	caffeine
+A258	Polarity T131 positive
+A259	Aspect T131 drinks_quality
+T132	Term 4993 4998	pizza
+A260	Polarity T132 positive
+A261	Aspect T132 food_quality
+T133	Term 5018 5023	wings
+A262	Polarity T133 positive
+A263	Aspect T133 food_quality
+T134	Term 5028 5033	salad
+A264	Polarity T134 positive
+A265	Aspect T134 food_quality
+T135	Term 5041 5055	lunch specials
+A266	Polarity T135 positive
+A267	Aspect T135 food_quality
+T136	Term 5057 5062	Place
+A268	Polarity T136 positive
+A269	Aspect T136 ambience_general
+T137	Term 5086 5093	service
+A270	Polarity T137 positive
+A271	Aspect T137 service_general
+T138	Term 5097 5107	atmosphere
+A272	Polarity T138 positive
+A273	Aspect T138 ambience_general
+T139	Null 5153 5175	Very unprofessional...
+A274	Polarity T139 negative
+A275	Aspect T139 service_general
+T140	Null 5176 5319	I called to make a reservatiom and they said that they did not take any reservation, but when I came directly, they said it was fully booked...
+A276	Polarity T140 negative
+A277	Aspect T140 service_general
+T141	Term 5320 5327	Service
+A278	Polarity T141 positive
+A279	Aspect T141 service_general
+T142	Term 5363 5368	place
+A280	Polarity T142 positive
+A281	Aspect T142 restaurant_general
+T143	Term 5382 5386	view
+A282	Polarity T143 positive
+A283	Aspect T143 location_general
+T144	Term 5421 5434	fish sandwich
+A284	Polarity T144 positive
+A285	Aspect T144 food_quality
+T145	Term 5514 5540	electrolyte enhanced vodka
+A286	Polarity T145 positive
+A287	Aspect T145 drinks_quality
+T146	Term 5542 5549	Service
+A288	Polarity T146 negative
+A289	Aspect T146 service_general
+T147	Term 5583 5594	managements
+A290	Polarity T147 neutral
+A291	Aspect T147 service_general
+T149	Term 5671 5675	food
+A294	Polarity T149 positive
+A295	Aspect T149 food_quality
+T150	Term 5694 5702	ambiance
+A296	Polarity T150 positive
+A297	Aspect T150 ambience_general
+T151	Term 5712 5717	music
+A298	Polarity T151 positive
+A299	Aspect T151 ambience_general
+T152	Null 5677 5718	Fair price, good ambiance and live music.
+A300	Polarity T152 positive
+A301	Aspect T152 restaurant_prices
+T153	Term 5724 5728	wine
+A302	Polarity T153 positive
+A303	Aspect T153 drinks_quality
+T154	Term 5770 5777	calzone
+A304	Polarity T154 positive
+A305	Aspect T154 food_quality
+T155	Null 5779 5827	They're 10 dollars but the size of a small baby.
+A306	Polarity T155 positive
+A307	Aspect T155 food_style_options
+T156	Term 5835 5839	food
+A308	Polarity T156 positive
+A309	Aspect T156 food_quality
+T157	Term 5846 5854	portions
+A310	Polarity T157 positive
+A311	Aspect T157 food_style_options
+T158	Term 5865 5870	staff
+A312	Polarity T158 positive
+A313	Aspect T158 service_general
+T159	Null 5872 5884	Recommended!
+A314	Polarity T159 positive
+A315	Aspect T159 restaurant_general
+T160	Term 5908 5932	cooked and grilled meals
+A316	Polarity T160 positive
+A317	Aspect T160 food_style_options
+T161	Null 5969 5985	Value for money.
+A318	Polarity T161 positive
+A319	Aspect T161 restaurant_prices
+T162	Null 5969 5985	Value for money.
+A320	Polarity T162 positive
+A321	Aspect T162 restaurant_general
+T163	Term 5994 5999	cakes
+A322	Polarity T163 positive
+A323	Aspect T163 food_quality
+T164	Term 6100 6103	BBQ
+A324	Polarity T164 negative
+A325	Aspect T164 food_quality
+T165	Term 6127 6137	meatshadno
+A326	Polarity T165 negative
+A327	Aspect T165 food_quality
+T166	Term 6153 6160	chicken
+A328	Polarity T166 negative
+A329	Aspect T166 food_quality
+T167	Term 6203 6211	waitress
+A330	Polarity T167 negative
+A331	Aspect T167 service_general
+T168	Null 6181 6253	Awful experience, the waitress was too busy taking care of other tables.
+A332	Polarity T168 negative
+A333	Aspect T168 restaurant_general
+T169	Null 6254 6270	Don't come here.
+A334	Polarity T169 negative
+A335	Aspect T169 restaurant_general
+T170	Term 6275 6282	ceviche
+A336	Polarity T170 positive
+A337	Aspect T170 food_quality
+T171	Null 6295 6304	Worth it!
+A338	Polarity T171 positive
+A339	Aspect T171 restaurant_general
+T172	Term 6328 6344	Brioche specials
+A340	Polarity T172 positive
+A341	Aspect T172 food_quality
+T173	Term 6352 6371	Prosciutto sandwich
+A342	Polarity T173 positive
+A343	Aspect T173 food_quality
+T174	Term 6430 6439	Petifores
+A344	Polarity T174 positive
+A345	Aspect T174 food_quality
+T175	Term 6468 6484	center cut filet
+A346	Polarity T175 positive
+A347	Aspect T175 food_quality
+T176	Term 6574 6586	French toast
+A348	Polarity T176 positive
+A349	Aspect T176 food_quality
+T177	Term 6664 6674	Great cake
+A350	Polarity T177 positive
+A351	Aspect T177 food_quality
+T178	Null 6682 6736	It's a chain yes but feels more organic than Starbucks
+A352	Polarity T178 positive
+A353	Aspect T178 food_quality
+T179	Term 6737 6764	Herb and bacon cream cheese
+A354	Polarity T179 positive
+A355	Aspect T179 food_quality
+T180	Term 6771 6783	Ikura Oroshi
+A356	Polarity T180 positive
+A357	Aspect T180 food_quality
+T181	Null 6796 6823	It made me come back twice.
+A358	Polarity T181 positive
+A359	Aspect T181 food_quality
+T182	Term 6862 6876	black miso cod
+A360	Polarity T182 positive
+A361	Aspect T182 food_quality
+T183	Term 6883 6888	cakes
+A362	Polarity T183 positive
+A363	Aspect T183 food_quality
+T184	Term 6899 6921	mini chocolate buttons
+A364	Polarity T184 positive
+A365	Aspect T184 food_quality
+T186	Term 6964 6972	Pancakes
+A368	Polarity T186 positive
+A369	Aspect T186 food_quality
+T187	Term 7041 7054	Spanish Latte
+A370	Polarity T187 positive
+A371	Aspect T187 food_quality
+T188	Term 7065 7070	sushi
+A372	Polarity T188 neutral
+A373	Aspect T188 food_quality
+T189	Null 7056 7159	Medicore sushi, not special on taste nor variety and beamwallet doesn't work if you are considering it.
+A374	Polarity T189 negative
+A375	Aspect T189 restaurant_miscellaneous
+T190	Term 7199 7209	management
+A376	Polarity T190 negative
+A377	Aspect T190 service_general
+T191	Null 7160 7242	Overall bad experience and waiting for management to rectify the beamwallet issue.
+A378	Polarity T191 negative
+A379	Aspect T191 restaurant_general
+T192	Term 7291 7295	food
+A380	Polarity T192 positive
+A381	Aspect T192 food_quality
+T193	Null 7315 7333	Highly recommended
+A382	Polarity T193 positive
+A383	Aspect T193 restaurant_general
+T195	Term 7340 7344	Alex
+A386	Polarity T195 positive
+A387	Aspect T195 service_general
+T196	Term 7443 7450	service
+A388	Polarity T196 positive
+A389	Aspect T196 service_general
+T197	Term 7462 7469	service
+A390	Polarity T197 positive
+A391	Aspect T197 service_general
+T198	Term 7480 7488	biscuits
+A392	Polarity T198 positive
+A393	Aspect T198 food_quality
+T199	Null 7504 7515	Lousy !!!!!
+A394	Aspect T199 restaurant_general
+A395	Polarity T199 negative
+T200	Term 7516 7537	Garlic and herbs crab
+A396	Polarity T200 positive
+A397	Aspect T200 food_quality
+T201	Term 7540 7557	shrimp manchurian
+A398	Polarity T201 positive
+A399	Aspect T201 food_quality
+T202	Term 7560 7566	oyster
+A400	Polarity T202 positive
+A401	Aspect T202 food_quality
+T203	Null 7582 7599	Great Happy Hour!
+A402	Polarity T203 positive
+A403	Aspect T203 restaurant_miscellaneous
+T204	Null 7670 7704	Absolute favourite hotpot in town!
+A404	Aspect T204 restaurant_general
+A405	Polarity T204 positive
+T205	Term 7717 7721	food
+A406	Polarity T205 positive
+A407	Aspect T205 food_quality
+T206	Term 7744 7751	service
+A408	Polarity T206 positive
+A409	Aspect T206 service_general
+T207	Term 7761 7769	location
+A410	Polarity T207 positive
+A411	Aspect T207 location_general
+T208	Null 7705 7814	Great great food, not too pricey, good service and nice location near the center of the resort and the beach.
+A412	Polarity T208 positive
+A413	Aspect T208 restaurant_prices
+T209	Null 7815 7835	Totally recommended.
+A414	Polarity T209 positive
+A415	Aspect T209 restaurant_general
+T210	Term 7906 7914	portions
+A416	Polarity T210 positive
+A417	Aspect T210 food_style_options
+T211	Term 7906 7914	portions
+A418	Polarity T211 positive
+A419	Aspect T211 food_prices
+T212	Term 7932 7942	Margaritas
+A420	Polarity T212 negative
+A421	Aspect T212 drinks_quality
+T213	Null 8009 8019	Delicious!
+A422	Polarity T213 positive
+A423	Aspect T213 food_quality
+T214	Term 8026 8033	service
+A424	Polarity T214 positive
+A425	Aspect T214 service_general
+T215	Term 8038 8044	coffee
+A426	Polarity T215 positive
+A427	Aspect T215 drinks_quality
+T216	Term 8068 8074	tables
+A428	Polarity T216 negative
+A429	Aspect T216 ambience_general
+T217	Null 8046 8085	Often crowded and few tables, but cozy.
+A430	Polarity T217 positive
+A431	Aspect T217 ambience_general
+T218	Null 8046 8085	Often crowded and few tables, but cozy.
+A432	Polarity T218 negative
+A433	Aspect T218 ambience_general
+T219	Term 8106 8126	Pepper Lunch Express
+A434	Polarity T219 positive
+A435	Aspect T219 restaurant_general
+T220	Term 8145 8161	beef pepper rice
+A436	Polarity T220 positive
+A437	Aspect T220 food_quality
+T221	Term 8169 8173	meal
+A438	Polarity T221 positive
+A439	Aspect T221 food_style_options
+T222	Null 8178 8191	Feel friendly
+A440	Polarity T222 positive
+A441	Aspect T222 ambience_general
+T224	Term 8233 8237	host
+A444	Polarity T224 positive
+A445	Aspect T224 service_general
+T225	Term 8245 8254	bartender
+A446	Polarity T225 positive
+A447	Aspect T225 service_general
+T226	Null 8275 8360	I appreciated their positive energy and sincereness of how much they liked their job.
+A448	Polarity T226 positive
+A449	Aspect T226 service_general
+T227	Term 8361 8367	Scones
+A450	Polarity T227 positive
+A451	Aspect T227 food_quality
+T228	Term 8422 8441	royal milk tea cake
+A452	Polarity T228 positive
+A453	Aspect T228 food_quality
+T229	Term 8502 8506	cafe
+A454	Polarity T229 positive
+A455	Aspect T229 restaurant_general
+T230	Null 8532 8542	Me like :)
+A456	Polarity T230 positive
+A457	Aspect T230 restaurant_general
+T231	Null 8567 8637	Try anything, either sweet or salty, tastes amazing and all home made!
+A458	Polarity T231 positive
+A459	Aspect T231 food_quality
+T232	Term 8547 8560	stuffed pizza
+A460	Polarity T232 positive
+A461	Aspect T232 food_quality
+T233	Null 8638 8645	Nomnom.
+A462	Polarity T233 positive
+A463	Aspect T233 food_quality
+T234	Term 8650 8658	scallops
+A464	Polarity T234 positive
+A465	Aspect T234 food_quality
+T235	Term 8691 8708	Newton Chardonnay
+A466	Polarity T235 positive
+A467	Aspect T235 drinks_quality
+T236	Term 8732 8737	bacon
+A468	Polarity T236 positive
+A469	Aspect T236 food_quality
+T237	Null 8739 8780	It costs more than usual but so worth it.
+A470	Polarity T237 positive
+A471	Aspect T237 restaurant_general
+T238	Null 8739 8780	It costs more than usual but so worth it.
+A472	Polarity T238 negative
+A473	Aspect T238 restaurant_prices
+T239	Null 6605 6663	It can get busy-no worries, free mimosas during your wait!
+A474	Polarity T239 positive
+A475	Aspect T239 restaurant_general
+T240	Term 8831 8836	taste
+A476	Polarity T240 positive
+A477	Aspect T240 food_quality
+T241	Term 8794 8798	cuts
+A478	Polarity T241 positive
+A479	Aspect T241 food_style_options
+T242	Null 8838 8859	Worth the extra cost.
+A480	Polarity T242 positive
+A481	Aspect T242 restaurant_general
+T243	Null 8860 8871	Its amazing
+A482	Polarity T243 positive
+A483	Aspect T243 restaurant_general
+T244	Term 8877 8881	Gyro
+A484	Polarity T244 positive
+A485	Aspect T244 food_quality
+T245	Term 8886 8893	Baklava
+A486	Polarity T245 positive
+A487	Aspect T245 food_quality
+T246	Term 8905 8909	Alex
+A488	Polarity T246 positive
+A489	Aspect T246 service_general
+T247	Term 8934 8954	Coffee with hazelnut
+A490	Polarity T247 positive
+A491	Aspect T247 drinks_quality
+T248	Term 9016 9038	solid herbal soup base
+A492	Polarity T248 positive
+A493	Aspect T248 food_quality
+T250	Null 9074 9107	Good enought to enjoy throughout.
+A496	Polarity T250 positive
+A497	Aspect T250 food_quality
+T251	Null 9108 9133	Set back is too expensive
+A498	Polarity T251 negative
+A499	Aspect T251 restaurant_prices
+T252	Term 8986 9005	Taiwanese Steamboat
+A500	Polarity T252 positive
+A501	Aspect T252 restaurant_general
+T253	Term 9134 9154	Fried oyster sliders
+A502	Polarity T253 positive
+A503	Aspect T253 food_quality
+T255	Term 9251 9263	potato salad
+A506	Polarity T255 positive
+A507	Aspect T255 food_quality
+T256	Term 9286 9291	Caryn
+A508	Polarity T256 positive
+A509	Aspect T256 service_general
+T257	Term 9295 9302	Kristen
+A510	Polarity T257 positive
+A511	Aspect T257 service_general
+T258	Term 9348 9370	honey-nougat ice cream
+A512	Polarity T258 positive
+A513	Aspect T258 food_quality
+T259	Term 9488 9503	mix fruit juice
+A514	Polarity T259 positive
+A515	Aspect T259 drinks_quality
+T260	Term 9525 9536	passion tea
+A516	Polarity T260 positive
+A517	Aspect T260 drinks_quality
+T261	Null 9545 9610	No caffeine or sugar (unless ya sweeten it!) and very refreshing.
+A518	Polarity T261 positive
+A519	Aspect T261 drinks_quality
+T262	Term 9615 9638	three amigos enchiladas
+A520	Polarity T262 positive
+A521	Aspect T262 food_quality
+T263	Term 9661 9665	wine
+A522	Polarity T263 positive
+A523	Aspect T263 drinks_prices
+T264	Term 9670 9674	beer
+A524	Polarity T264 positive
+A525	Aspect T264 drinks_prices
+T265	Null 9730 9743	They deliver!
+A526	Polarity T265 positive
+A527	Aspect T265 service_general
+T266	Term 9766 9770	vibe
+A528	Polarity T266 positive
+A529	Aspect T266 ambience_general
+T267	Term 9783 9790	dessert
+A530	Polarity T267 positive
+A531	Aspect T267 food_style_options
+T268	Term 9791 9797	coffee
+A532	Polarity T268 positive
+A533	Aspect T268 drinks_style_options
+T269	Term 9849 9860	mee bandung
+A534	Polarity T269 positive
+A535	Aspect T269 food_quality
+T270	Term 9871 9882	mee bandung
+A536	Polarity T270 positive
+A537	Aspect T270 food_quality
+T271	Term 9893 9905	Kelantanesse
+A538	Polarity T271 positive
+A539	Aspect T271 food_quality
+T272	Null 9921 9932	Omnomnomnom
+A540	Polarity T272 positive
+A541	Aspect T272 food_style_options
+T273	Term 9941 9952	Tea Latte's
+A542	Polarity T273 positive
+A543	Aspect T273 drinks_quality
+T274	Term 10017 10026	hamburger
+A544	Polarity T274 negative
+A545	Aspect T274 food_quality
+T275	Null 9982 10027	Get ready to wait 1 hour for a bad hamburger!
+A546	Polarity T275 negative
+A547	Aspect T275 service_general
+T276	Term 10033 10045	chicken wing
+A548	Polarity T276 positive
+A549	Aspect T276 food_quality
+T277	Null 10109 10162	When she write down ur orders her face macam tak puas
+A550	Polarity T277 negative
+A551	Aspect T277 service_general
+T278	Term 10080 10085	woman
+A552	Polarity T278 negative
+A553	Aspect T278 service_general
+T279	Term 10177 10186	bar, cafe
+A554	Aspect T279 ambience_general
+T280	Term 10197 10201	food
+A555	Polarity T280 positive
+A556	Aspect T280 food_quality
+T281	Term 10208 10215	service
+A557	Polarity T281 negative
+A558	Aspect T281 service_general
+T282	Term 10327 10334	Picanha
+A559	Polarity T282 negative
+A560	Aspect T282 food_quality
+T283	Term 10355 10364	margarita
+A561	Polarity T283 positive
+A562	Aspect T283 drinks_quality
+T284	Term 10404 10409	tapas
+A563	Polarity T284 positive
+A564	Aspect T284 food_quality
+T285	Term 10420 10425	beers
+A565	Polarity T285 positive
+A566	Aspect T285 drinks_prices
+T286	Null 10434 10457	And it tasted wonderful
+A567	Polarity T286 positive
+A568	Aspect T286 food_quality
+T287	Term 10466 10481	Asado Beef Ribs
+A569	Polarity T287 positive
+A570	Aspect T287 food_quality
+T288	Term 10487 10497	Lokum Beef
+A571	Polarity T288 positive
+A572	Aspect T288 food_quality
+T289	Term 10506 10519	Atnep Baklava
+A573	Polarity T289 positive
+A574	Aspect T289 food_quality
+T290	Term 10540 10546	coffee
+A575	Polarity T290 positive
+A576	Aspect T290 drinks_quality
+T291	Term 10558 10563	space
+A577	Polarity T291 positive
+A578	Aspect T291 ambience_general
+T292	Term 10570 10577	chicken
+A579	Polarity T292 positive
+A580	Aspect T292 food_quality
+T293	Term 10591 10598	service
+A581	Polarity T293 positive
+A582	Aspect T293 service_general
+T294	Null 10583 10614	Awesome service and affordable!
+A583	Polarity T294 positive
+A584	Aspect T294 restaurant_prices
+T295	Term 10628 10635	sashimi
+A585	Polarity T295 positive
+A586	Aspect T295 food_prices
+T296	Term 10678 10684	coffee
+A587	Polarity T296 positive
+T297	Term 10654 10659	place
+A588	Polarity T297 positive
+A589	Aspect T297 restaurant_general
+T298	Null 10730 10782	Only coffee shop in area, making it crazy in AM M-F.
+A590	Polarity T298 negative
+A591	Aspect T298 ambience_general
+T299	Term 10783 10788	Drive
+A592	Polarity T299 negative
+A593	Aspect T299 service_general
+T300	Null 10817 10854	Inside usually faster but not always.
+A594	Polarity T300 neutral
+A595	Aspect T300 service_general
+T301	Term 10859 10876	mushroom crostini
+A596	Polarity T301 positive
+A597	Aspect T301 food_quality
+T302	Null 10899 10964	No joke - surpasses every other crostini we tried by a long shot.
+A598	Polarity T302 positive
+A599	Aspect T302 food_quality
+T303	Null 10965 11023	Don't ask for a cup of water to go with your $10 purchase.
+A600	Polarity T303 negative
+A601	Aspect T303 service_general
+T304	Term 11076 11085	employees
+A602	Polarity T304 negative
+A603	Aspect T304 service_general
+T305	Term 11160 11165	Pitas
+A604	Polarity T305 positive
+A605	Aspect T305 food_quality
+T306	Term 11201 11212	lentil soup
+A606	Polarity T306 negative
+A607	Aspect T306 food_quality
+T307	Null 11227 11275	They honor restaurant.com certificates everyday!
+A608	Polarity T307 positive
+A609	Aspect T307 restaurant_general
+T308	Term 11276 11292	Gunkan Crujiente
+A610	Polarity T308 positive
+A611	Aspect T308 food_quality
+T309	Term 11303 11311	apetizer
+A612	Polarity T309 positive
+A613	Aspect T309 food_quality
+T310	Null 11332 11345	Always yummy!
+A614	Polarity T310 positive
+A615	Aspect T310 food_quality
+T311	Term 11406 11410	food
+A616	Polarity T311 positive
+A617	Aspect T311 food_quality
+T312	Term 11419 11426	lasagna
+A618	Polarity T312 negative
+A619	Aspect T312 food_quality
+T313	Term 11476 11484	interior
+A620	Polarity T313 positive
+A621	Aspect T313 ambience_general
+T314	Term 11486 11492	Coffee
+A622	Polarity T314 negative
+A623	Aspect T314 drinks_quality
+T315	Term 11526 11531	dough
+A624	Polarity T315 positive
+A625	Aspect T315 food_quality
+T316	Null 11549 11561	Come hungry!
+A626	Polarity T316 positive
+A627	Aspect T316 food_quality
+T319	Term 11829 11845	warm veal tongue
+A632	Polarity T319 positive
+A633	Aspect T319 food_quality
+T320	Null 11858 11893	It is tender and taste really good!
+A634	Polarity T320 positive
+A635	Aspect T320 food_quality
+T321	Null 11894 11916	Melts in your mouth!!!
+A636	Polarity T321 positive
+A637	Aspect T321 food_quality
+T322	Null 11917 11933	Dog friendly!!!!
+A638	Aspect T322 restaurant_miscellaneous
+A639	Polarity T322 positive
+T324	Term 12033 12095	grilled portabella vegetarian sandwich minus the cheese & mayo
+A642	Polarity T324 positive
+A643	Aspect T324 food_quality
+T325	Term 12104 12119	chocolate mouse
+A644	Polarity T325 positive
+A645	Aspect T325 food_quality
+T327	Null 12194 12325	You will have "entertainment" charges on your bill that are NOT explained on the iPad interface before you start playing the games!
+A648	Polarity T327 negative
+A649	Aspect T327 restaurant_prices
+T328	Term 12342 12355	hot chocolate
+A650	Polarity T328 positive
+A651	Aspect T328 drinks_quality
+T329	Null 12362 12384	it's something special
+A652	Polarity T329 positive
+A653	Aspect T329 drinks_quality
+T330	Null 12385 12420	The head chef makes good eveything.
+A654	Polarity T330 positive
+A655	Aspect T330 food_quality
+T331	Term 12429 12436	deserts
+A656	Polarity T331 positive
+A657	Aspect T331 food_quality
+T332	Term 12448 12458	crem brule
+A658	Polarity T332 positive
+A659	Aspect T332 food_quality
+T333	Term 12508 12515	Burgers
+A660	Polarity T333 positive
+A661	Aspect T333 food_prices
+T334	Term 12530 12546	THAI ICED COFFEE
+A662	Polarity T334 positive
+A663	Aspect T334 drinks_quality
+T335	Null 12565 12578	It's amazing!
+A664	Polarity T335 positive
+A665	Aspect T335 drinks_quality
+T336	Term 12610 12615	place
+A666	Polarity T336 positive
+A667	Aspect T336 restaurant_general
+T337	Null 12617 12630	Good is good!
+A668	Polarity T337 positive
+A669	Aspect T337 food_quality
+T338	Term 12631 12650	You can't go wrong.
+A670	Polarity T338 positive
+A671	Aspect T338 restaurant_general
+T339	Null 12651 12688	Ate here many times when in Petoskey!
+A672	Polarity T339 positive
+A673	Aspect T339 restaurant_general
+T340	Null 12689 12750	I have to drive an hour to get here and it's always worth it.
+A674	Polarity T340 positive
+A675	Aspect T340 restaurant_general
+T341	Term 12757 12770	BBQ pork buns
+A676	Polarity T341 positive
+A677	Aspect T341 food_quality
+T342	Term 12796 12806	bubble tea
+A678	Polarity T342 positive
+A679	Aspect T342 drinks_quality
+T343	Term 12824 12842	Spicy lobster roll
+A680	Polarity T343 positive
+A681	Aspect T343 food_quality
+T344	Term 12859 12873	jerk tofu wrap
+A682	Polarity T344 positive
+A683	Aspect T344 food_quality
+T345	Term 12913 12919	burger
+A684	Polarity T345 positive
+A685	Aspect T345 food_quality
+T346	Term 12925 12958	Parmesan chips with truffle sauce
+A686	Polarity T346 positive
+A687	Aspect T346 food_quality
+T347	Term 13116 13128	french fries
+A688	Polarity T347 positive
+A689	Aspect T347 food_quality
+T348	Null 13139 13258	If you shop at the Giant next door before you eat, you can frequently get a $5 off coupon good off of any $20 purchase.
+A690	Polarity T348 positive
+A691	Aspect T348 restaurant_miscellaneous
+T349	Term 13259 13273	Cheesy ravioli
+A692	Polarity T349 positive
+A693	Aspect T349 food_quality
+T351	Null 13376 13383	Try it.
+A696	Polarity T351 positive
+A697	Aspect T351 food_quality
+T352	Term 13392 13413	pasta portofino salad
+A698	Polarity T352 positive
+A699	Aspect T352 food_quality
+T353	Term 13418 13429	iced mocha,
+A700	Polarity T353 positive
+A701	Aspect T353 food_quality
+T354	Null 13463 13546	The Gipsy Kings playing in the background will make up for there being no Internet.
+A702	Polarity T354 positive
+A703	Aspect T354 ambience_general
+T355	Null 13463 13546	The Gipsy Kings playing in the background will make up for there being no Internet.
+A704	Polarity T355 negative
+A705	Aspect T355 restaurant_miscellaneous
+T356	Term 13555 13559	view
+A706	Polarity T356 positive
+A707	Aspect T356 location_general
+T357	Term 13570 13583	BLAT sandwich
+A708	Polarity T357 positive
+A709	Aspect T357 food_quality
+T359	Term 13620 13624	rest
+A712	Polarity T359 positive
+A713	Aspect T359 restaurant_general
+T360	Term 13646 13651	staff
+A714	Polarity T360 positive
+A715	Aspect T360 service_general
+T361	Term 13661 13671	sandwiches
+A716	Polarity T361 positive
+A717	Aspect T361 food_quality
+T362	Term 13677 13687	Montagnard
+A718	Polarity T362 positive
+A719	Aspect T362 food_quality
+T363	Term 13696 13705	dumplings
+A720	Polarity T363 positive
+A721	Aspect T363 food_quality
+T364	Term 13712 13719	service
+A722	Polarity T364 positive
+A723	Aspect T364 food_quality
+T365	Null 13721 13723	^^
+A724	Polarity T365 positive
+A725	Aspect T365 restaurant_general
+T366	Term 13724 13734	PB&J shake
+A726	Polarity T366 positive
+A727	Aspect T366 drinks_quality
+T367	Term 13771 13775	cafe
+A728	Polarity T367 positive
+A729	Aspect T367 ambience_general
+T368	Term 13771 13775	cafe
+A730	Polarity T368 positive
+A731	Aspect T368 restaurant_general
+T370	Term 13826 13831	seats
+A734	Polarity T370 positive
+A735	Aspect T370 ambience_general
+T371	Term 13844 13849	piano
+A736	Polarity T371 positive
+A737	Aspect T371 ambience_general
+T372	Term 13875 13879	vibe
+A738	Polarity T372 positive
+A739	Aspect T372 ambience_general
+T373	Term 13908 13914	coffee
+A740	Polarity T373 positive
+A741	Aspect T373 drinks_quality
+T374	Term 13922 13927	staff
+A742	Polarity T374 positive
+A743	Aspect T374 service_general
+T375	Null 13929 13979	Very fun and friendly...been going here for years.
+A744	Polarity T375 positive
+A745	Aspect T375 ambience_general
+T376	Term 14109 14116	burgers
+A746	Polarity T376 positive
+A747	Aspect T376 food_quality
+T377	Term 14136 14141	staff
+A748	Polarity T377 positive
+A749	Aspect T377 service_general
+T378	Null 14164 14224	Not as bad as the reviews looks like 3 pricks over reviewing
+A750	Polarity T378 neutral
+A751	Aspect T378 restaurant_general
+T379	Term 14266 14271	place
+A752	Polarity T379 positive
+A753	Aspect T379 restaurant_general
+T380	Term 14323 14332	croissant
+A754	Polarity T380 positive
+A755	Aspect T380 food_quality
+T381	Null 14348 14350	:)
+A756	Polarity T381 positive
+A757	Aspect T381 restaurant_general
+T382	Term 14357 14361	food
+A758	Polarity T382 positive
+A759	Aspect T382 food_quality
+T384	Term 14417 14424	service
+A762	Polarity T384 positive
+A763	Aspect T384 service_general
+T385	Term 14447 14456	Schawarma
+A764	Polarity T385 positive
+A765	Aspect T385 food_quality
+T386	Term 14504 14508	food
+A766	Polarity T386 positive
+A767	Aspect T386 food_quality
+T387	Null 14482 14597	As much as I love the food here, I absolutely do not recommend it anytime it's anything other than completely dead.
+A768	Polarity T387 negative
+A769	Aspect T387 service_general
+T388	Null 14598 14661	They ALWAYS mess up my order and leave me waiting far too long.
+A770	Polarity T388 negative
+A771	Aspect T388 service_general
+T389	Term 14759 14763	food
+A772	Polarity T389 positive
+A773	Aspect T389 food_quality
+T390	Term 14797 14801	menu
+A774	Polarity T390 positive
+A775	Aspect T390 food_style_options
+T391	Term 14852 14870	meze from the chef
+A776	Polarity T391 positive
+A777	Aspect T391 food_quality
+T392	Term 14882 14895	retsina plate
+A778	Polarity T392 positive
+A779	Aspect T392 food_quality
+T393	Term 15028 15033	Kevin
+A780	Polarity T393 positive
+A781	Aspect T393 service_general
+T394	Term 15102 15107	staff
+A782	Polarity T394 positive
+A783	Aspect T394 service_general
+T395	Term 15117 15124	service
+A784	Polarity T395 positive
+A785	Aspect T395 service_general
+T396	Null 15192 15252	She is working only by herself but still working with smile.
+A786	Polarity T396 positive
+A787	Aspect T396 service_general
+T397	Term 15263 15268	staff
+A788	Polarity T397 negative
+A789	Aspect T397 service_general
+T398	Term 15409 15424	variety of food
+A790	Polarity T398 positive
+A791	Aspect T398 food_style_options
+T399	Term 15429 15435	drinks
+A792	Polarity T399 positive
+A793	Aspect T399 drinks_style_options
+T400	Null 15446 15487	wonderful "Historic" dining experience...
+A794	Polarity T400 positive
+A795	Aspect T400 restaurant_general
+T401	Term 15492 15495	pub
+A796	Polarity T401 positive
+A797	Aspect T401 restaurant_general
+T402	Term 15659 15669	margaritas
+A798	Polarity T402 positive
+A799	Aspect T402 drinks_quality
+T403	Null 15684 15738	There's always a lot of people but its worth the wait!
+A800	Polarity T403 positive
+A801	Aspect T403 restaurant_general
+T404	Null 15684 15738	There's always a lot of people but its worth the wait!
+A802	Polarity T404 negative
+A803	Aspect T404 ambience_general
+T405	Term 15805 15817	potato balls
+A804	Polarity T405 positive
+A805	Aspect T405 food_quality
+T406	Term 15826 15857	baked ham and cheese croissants
+A806	Polarity T406 positive
+A807	Aspect T406 food_quality
+T407	Term 15859 15882	Cheese rolls with guava
+A808	Polarity T407 positive
+A809	Aspect T407 food_quality
+T408	Term 15893 15904	cheese tart
+A810	Polarity T408 positive
+A811	Aspect T408 food_quality
+T409	Term 15931 15941	atmosphere
+A812	Polarity T409 positive
+A813	Aspect T409 ambience_general
+T410	Term 15960 15969	breakfast
+A814	Polarity T410 positive
+A815	Aspect T410 food_quality
+T411	Term 15960 15969	breakfast
+A816	Polarity T411 positive
+A817	Aspect T411 food_style_options
+T413	Null 16045 16070	Always fast and friendly!
+A820	Polarity T413 positive
+A821	Aspect T413 service_general
+T414	Term 16075 16079	food
+A822	Polarity T414 positive
+A823	Aspect T414 food_quality
+T416	Term 16128 16135	service
+A826	Polarity T416 negative
+A827	Aspect T416 service_general
+T417	Term 16140 16144	food
+A828	Polarity T417 positive
+A829	Aspect T417 food_quality
+T412	Null 15942 16044	Splitting the big breakfast with a friend is awesome, affordable, and will full up just about anybody.
+A818	Polarity T412 positive
+A819	Aspect T412 food_prices
+T415	Term 16100 16106	Arby's
+A824	Polarity T415 positive
+A825	Aspect T415 restaurant_general
+T418	Term 16187 16204	Breakfast burrito
+A830	Polarity T418 positive
+A831	Aspect T418 food_quality
+T419	Term 16230 16237	chorizo
+A832	Polarity T419 positive
+A833	Aspect T419 food_quality
+T420	Term 16256 16260	food
+A834	Polarity T420 positive
+A835	Aspect T420 food_quality
+T421	Term 16265 16275	tenderloin
+A836	Polarity T421 positive
+A837	Aspect T421 food_quality
+T422	Term 16303 16308	place
+A838	Polarity T422 positive
+A839	Aspect T422 restaurant_prices
+T423	Null 16327 16354	awesome old school italian!
+A840	Polarity T423 positive
+A841	Aspect T423 restaurant_general
+T424	Term 16371 16376	staff
+A842	Polarity T424 positive
+A843	Aspect T424 service_general
+T425	Null 16355 16410	super welcoming staff. loved it. fast & cozy for lunch.
+A844	Polarity T425 positive
+A845	Aspect T425 service_general
+T426	Null 16355 16410	super welcoming staff. loved it. fast & cozy for lunch.
+A846	Polarity T426 positive
+A847	Aspect T426 ambience_general
+T427	Null 16292 16297	Good.
+A848	Polarity T427 positive
+A849	Aspect T427 food_quality
+T428	Term 16633 16638	place
+A850	Polarity T428 negative
+A851	Aspect T428 restaurant_general
+T429	Term 16674 16681	service
+A852	Polarity T429 negative
+A853	Aspect T429 service_general
+T430	Term 16704 16708	food
+A854	Polarity T430 negative
+A855	Aspect T430 food_quality
+T431	Term 16704 16708	food
+A856	Polarity T431 negative
+A857	Aspect T431 food_style_options
+T432	Null 16628 16818	This place is useless, had very disappointing service.Quality & Quantity of food is worst but the cost is like 5 star Hotel.Never ever recommend this place to anyone, total waste of money :(
+A858	Polarity T432 negative
+A859	Aspect T432 restaurant_prices
+T433	Term 16825 16830	place
+A860	Polarity T433 positive
+A861	Aspect T433 restaurant_general
+T434	Term 16925 16931	salads
+A862	Polarity T434 positive
+A863	Aspect T434 food_quality
+T435	Term 16969 16975	bistro
+A864	Polarity T435 positive
+A865	Aspect T435 restaurant_general
+T436	Term 16997 17018	cajun chicken + gumbo
+A866	Polarity T436 positive
+A867	Aspect T436 food_quality
+T437	Term 17030 17038	beignets
+A868	Polarity T437 positive
+A869	Aspect T437 food_quality
+T438	Term 17053 17058	Becky
+A870	Polarity T438 positive
+A871	Aspect T438 service_general
+T439	Term 17097 17111	orange chicken
+A872	Polarity T439 positive
+A873	Aspect T439 food_quality
+T441	Term 17149 17155	coffee
+A876	Polarity T441 positive
+A877	Aspect T441 drinks_quality
+T440	Term 17189 17201	cheese plate
+A874	Polarity T440 positive
+A875	Aspect T440 food_quality
+T442	Null 17203 17230	Best $12 I have ever spent.
+A878	Polarity T442 positive
+A879	Aspect T442 restaurant_general
+T443	Term 17231 17238	Biryani
+A880	Polarity T443 positive
+A881	Aspect T443 food_quality
+T444	Term 17290 17299	ice cream
+A882	Polarity T444 positive
+A883	Aspect T444 food_quality
+T445	Null 17286 17340	The ice cream is fantastic and it's cheaper than Grom.
+A884	Polarity T445 positive
+A885	Aspect T445 restaurant_prices
+T447	Term 17422 17430	Baristar
+A888	Polarity T447 positive
+A889	Aspect T447 restaurant_general
+T448	Term 17463 17469	coffee
+A890	Polarity T448 positive
+A891	Aspect T448 drinks_quality
+T449	Term 17478 17482	food
+A892	Polarity T449 positive
+A893	Aspect T449 food_quality
+T450	Term 17642 17651	Empaladas
+A894	Polarity T450 positive
+A895	Aspect T450 food_quality
+T451	Term 17656 17665	baby goat
+A896	Polarity T451 positive
+A897	Aspect T451 food_quality
+T452	Term 17679 17684	steak
+A898	Polarity T452 negative
+A899	Aspect T452 food_quality
+T453	Term 17704 17718	argentine wine
+A900	Polarity T453 positive
+A901	Aspect T453 drinks_quality
+T454	Term 17724 17730	malbec
+A902	Polarity T454 positive
+A903	Aspect T454 drinks_quality
+T455	Null 17735 17757	Sundays kids eat free!
+A904	Polarity T455 positive
+A905	Aspect T455 restaurant_prices
+T456	Term 17864 17872	tequilas
+A906	Polarity T456 positive
+A907	Aspect T456 drinks_style_options
+T457	Term 17980 17992	seaside deck
+A908	Polarity T457 positive
+A909	Aspect T457 location_general
+T458	Term 18050 18056	choice
+A910	Polarity T458 positive
+A911	Aspect T458 food_style_options
+T459	Term 18133 18142	taco rice
+A912	Polarity T459 positive
+A913	Aspect T459 food_style_options
+T460	Null 18022 18143	The ¥200 extra ser includes choice among five side dishes and drinks - good deal in addition to three sizes of taco rice.
+A914	Polarity T460 positive
+A915	Aspect T460 food_prices
+T461	Term 18172 18182	Duck salad
+A916	Polarity T461 positive
+A917	Aspect T461 food_quality
+T462	Null 18144 18171	Open till 11:55 so amazing!
+A918	Polarity T462 positive
+A919	Aspect T462 restaurant_miscellaneous
+T463	Term 18195 18201	Coffee
+A920	Aspect T463 drinks_quality
+T464	Null 18195 18242	Coffee is the best at this place..costly though
+A921	Polarity T464 negative
+A922	Aspect T464 drinks_prices
+T465	Term 18251 18272	chocolate cheese cake
+A923	Polarity T465 positive
+A924	Aspect T465 food_quality
+T466	Null 18275 18289	It's delicious
+A925	Polarity T466 positive
+A926	Aspect T466 food_quality
+T467	Null 18290 18410	Gluten free friendly and I can actually order just about anything for my fiancé here that is available to everyone else!
+A927	Polarity T467 positive
+A928	Aspect T467 food_style_options
+T468	Null 18411 18452	Love how caring they are about allergies!
+A929	Polarity T468 positive
+A930	Aspect T468 restaurant_miscellaneous
+T469	Term 18490 18494	meat
+A931	Polarity T469 positive
+A932	Aspect T469 food_style_options
+T470	Term 18501 18506	filet
+A933	Polarity T470 positive
+A934	Aspect T470 food_quality
+T471	Term 18631 18636	cakes
+A935	Polarity T471 positive
+A936	Aspect T471 food_quality
+T472	Null 18671 18681	Gorgeous .
+A937	Polarity T472 positive
+A938	Aspect T472 food_quality
+T473	Term 18682 18692	Quesadilla
+A939	Polarity T473 positive
+A940	Aspect T473 food_quality
+T474	Null 18715 18751	I keep on coming back just for that!
+A941	Polarity T474 positive
+A942	Aspect T474 food_quality
+T475	Null 18752 18781	6 crepes made in 40+ minutes.
+A943	Polarity T475 negative
+A944	Aspect T475 service_general
+T476	Term 18842 18846	food
+A945	Polarity T476 positive
+A946	Aspect T476 food_quality
+T477	Term 18878 18885	oysters
+A947	Polarity T477 positive
+A948	Aspect T477 food_style_options
+T478	Term 18897 18903	po boy
+A949	Polarity T478 positive
+A950	Aspect T478 food_quality
+T479	Null 18905 18935	Too expensive for average menu
+A951	Polarity T479 negative
+A952	Aspect T479 restaurant_prices
+T480	Term 18931 18935	menu
+A953	Polarity T480 neutral
+A954	Aspect T480 food_quality
+T481	Null 18936 18958	Pricey, but delicious.
+A955	Polarity T481 positive
+A956	Aspect T481 food_prices
+T482	Null 18936 18958	Pricey, but delicious.
+A957	Polarity T482 positive
+A958	Aspect T482 food_quality
+T483	Term 18990 18996	buffet
+A959	Polarity T483 positive
+A960	Aspect T483 restaurant_general
+T484	Null 19017 19099	The drive thru is the weirdest configured drive thru - odd curve to get to window!
+A961	Polarity T484 negative
+A962	Aspect T484 restaurant_miscellaneous
+T485	Null 19150 19181	Pretty much everything is good.
+A963	Polarity T485 positive
+T486	Term 19188 19195	service
+A964	Polarity T486 positive
+A965	Aspect T486 service_general
+T487	Term 19202 19212	matcha tea
+A966	Polarity T487 positive
+A967	Aspect T487 drinks_quality
+T488	Term 19233 19242	Starbucks
+A968	Polarity T488 positive
+A969	Aspect T488 restaurant_general
+T489	Term 19291 19296	staff
+A970	Polarity T489 positive
+A971	Aspect T489 service_general
+T490	Null 19266 19339	Excellent (and friendly) staff, very clean, and usually just busy enough.
+A972	Polarity T490 positive
+A973	Aspect T490 ambience_general
+T491	Term 19372 19391	Crispy Fried Smelts
+A974	Polarity T491 positive
+A975	Aspect T491 food_quality
+T492	Term 19417 19422	music
+A976	Polarity T492 positive
+A977	Aspect T492 ambience_general
+T493	Null 19468 19491	Slowest starbucks ever.
+A978	Polarity T493 positive
+A979	Aspect T493 service_general
+T494	Term 19512 19519	service
+A980	Polarity T494 negative
+A981	Aspect T494 service_general
+T495	Term 19537 19552	I love this ;-)
+A982	Polarity T495 positive
+A983	Aspect T495 restaurant_general
+T496	Term 19827 19838	cockroaches
+A984	Polarity T496 negative
+A985	Aspect T496 ambience_general
+T497	Term 19891 19898	service
+A986	Polarity T497 positive
+A987	Aspect T497 service_general
+T498	Term 19944 19953	Apple pie
+A988	Polarity T498 positive
+A989	Aspect T498 food_quality
+T499	Term 19958 19967	crab cake
+A990	Polarity T499 positive
+A991	Aspect T499 food_quality
+T500	Term 20003 20009	coffee
+A992	Polarity T500 positive
+A993	Aspect T500 drinks_quality
+T501	Term 20048 20052	menu
+A994	Polarity T501 positive
+A995	Aspect T501 food_style_options
+T502	Term 20072 20076	food
+A996	Polarity T502 positive
+A997	Aspect T502 food_quality
+T503	Null 19999 20147	The coffee here is great, they have an extensive menu with a lot of good food, serve breakfast all day, are open until midnight, and have free wifi.
+A998	Polarity T503 positive
+A999	Aspect T503 service_general
+T504	Null 19999 20147	The coffee here is great, they have an extensive menu with a lot of good food, serve breakfast all day, are open until midnight, and have free wifi.
+A1000	Polarity T504 positive
+A1001	Aspect T504 restaurant_miscellaneous
+T505	Term 20152 20161	waitstaff
+A1002	Polarity T505 positive
+A1003	Aspect T505 service_general
+T506	Term 20152 20161	waitstaff
+A1004	Polarity T506 positive
+A1005	Aspect T506 service_general
+T507	Null 20181 20196	I love it here.
+A1006	Polarity T507 positive
+A1007	Aspect T507 restaurant_general
+T508	Term 20246 20252	window
+A1008	Polarity T508 positive
+A1009	Aspect T508 location_general
+T509	Term 20234 20240	coffee
+A1010	Polarity T509 positive
+A1011	Aspect T509 drinks_quality
+T510	Term 20210 20217	fit out
+A1012	Polarity T510 positive
+A1013	Aspect T510 ambience_general
+T511	Term 20328 20333	rolls
+A1014	Polarity T511 positive
+A1015	Aspect T511 food_quality
+T512	Term 20295 20302	special
+A1016	Polarity T512 positive
+A1017	Aspect T512 food_prices
+T513	Term 20365 20371	coffee
+A1018	Polarity T513 positive
+A1019	Aspect T513 drinks_quality
+T514	Term 20394 20398	shop
+A1020	Polarity T514 positive
+A1021	Aspect T514 ambience_general
+T515	Term 20404 20410	coffee
+A1022	Polarity T515 positive
+A1023	Aspect T515 drinks_quality
+T516	Term 20429 20436	service
+A1024	Polarity T516 positive
+A1025	Aspect T516 service_general
+T517	Term 20447 20454	Burgers
+A1026	Polarity T517 positive
+A1027	Aspect T517 food_quality
+T518	Null 20464 20501	Everything is so fresh and delicious!
+A1028	Polarity T518 positive
+A1029	Aspect T518 food_quality
+T519	Term 20522 20532	resteraunt
+A1030	Polarity T519 positive
+A1031	Aspect T519 restaurant_general
+T520	Term 20547 20552	diner
+A1032	Polarity T520 negative
+A1033	Aspect T520 food_quality
+T521	Term 20547 20552	diner
+A1034	Polarity T521 negative
+A1035	Aspect T521 food_prices
+T522	Term 20589 20592	Bug
+A1036	Polarity T522 positive
+A1037	Aspect T522 ambience_general
+T523	Term 20603 20630	Pumpkin cream cheese donuts
+A1038	Polarity T523 positive
+A1039	Aspect T523 food_quality
+T524	Term 20643 20647	food
+A1040	Polarity T524 positive
+A1041	Aspect T524 food_quality
+T525	Term 20655 20662	service
+A1042	Polarity T525 negative
+A1043	Aspect T525 service_general
+T526	Term 20677 20698	vege tomyam curry mee
+A1044	Polarity T526 positive
+A1045	Aspect T526 food_quality
+T527	Term 20721 20727	places
+A1046	Polarity T527 neutral
+A1047	Aspect T527 restaurant_miscellaneous
+T528	Term 20758 20764	buffet
+A1048	Polarity T528 positive
+A1049	Aspect T528 food_quality
+T529	Null 20753 20786	Best buffet and variety is huge!!
+A1050	Polarity T529 positive
+A1051	Aspect T529 food_style_options
+T530	Null 20787 20789	<3
+A1052	Polarity T530 positive
+A1053	Aspect T530 restaurant_general
+T531	Term 20795 20800	diner
+A1054	Polarity T531 positive
+A1055	Aspect T531 food_quality
+T532	Term 20819 20823	food
+A1056	Polarity T532 positive
+A1057	Aspect T532 food_quality
+T533	Term 20837 20844	service
+A1058	Polarity T533 positive
+A1059	Aspect T533 service_general
+T534	Term 20852 20873	corned beef breakfast
+A1060	Polarity T534 positive
+A1061	Aspect T534 food_quality
+T535	Term 20892 20897	place
+A1062	Polarity T535 positive
+A1063	Aspect T535 restaurant_general
+T536	Term 20907 20911	food
+A1064	Polarity T536 positive
+A1065	Aspect T536 food_quality
+T537	Null 20915 20928	You gotta go!
+A1066	Polarity T537 positive
+A1067	Aspect T537 restaurant_general
+T538	Term 20941 20946	cuppa
+A1068	Polarity T538 positive
+A1069	Aspect T538 restaurant_general
+T539	Term 21089 21098	cold cuts
+A1070	Polarity T539 positive
+A1071	Aspect T539 food_quality
+T540	Term 21071 21079	hot subs
+A1072	Polarity T540 positive
+A1073	Aspect T540 food_quality
+T541	Term 20974 20984	sandwiches
+A1074	Polarity T541 positive
+A1075	Aspect T541 food_quality
+T542	Term 21021 21025	Deli
+A1076	Polarity T542 positive
+A1077	Aspect T542 food_quality
+T543	Null 21118 21145	Pricing is very reasonable!
+A1078	Polarity T543 positive
+A1079	Aspect T543 restaurant_prices
+T544	Term 21310 21324	Candy Cane Pie
+A1080	Polarity T544 positive
+A1081	Aspect T544 food_quality
+T545	Term 21328 21343	Gingerbread Pie
+A1082	Polarity T545 positive
+A1083	Aspect T545 food_quality
+T546	Term 21395 21401	Coffee
+A1084	Polarity T546 positive
+A1085	Aspect T546 drinks_quality
+T547	Term 21444 21460	3-way cannelloni
+A1086	Polarity T547 positive
+A1087	Aspect T547 food_quality
+T548	Term 21586 21593	food :)
+A1088	Polarity T548 positive
+A1089	Aspect T548 food_quality
+T549	Null 21490 21593	Very popular...don't get there late unless you're prepared to wait for at least an hour...great food :)
+A1090	Polarity T549 positive
+A1091	Aspect T549 ambience_general
+T550	Term 21594 21609	lunch prix fixe
+A1092	Polarity T550 positive
+A1093	Aspect T550 restaurant_prices
+T551	Term 21661 21673	Garlic Bread
+A1094	Polarity T551 positive
+A1095	Aspect T551 food_quality
+T552	Term 21709 21718	appetizer
+A1096	Polarity T552 positive
+A1097	Aspect T552 food_quality
+T553	Null 21696 21698	:)
+A1098	Polarity T553 positive
+A1099	Aspect T553 restaurant_general
+T554	Term 21719 21738	skillet chip nachos
+A1100	Polarity T554 positive
+A1101	Aspect T554 food_quality
+T555	Term 21748 21763	Pescado Burrito
+A1102	Polarity T555 positive
+A1103	Aspect T555 food_quality
+T556	Term 21824 21840	Mozzarella balls
+A1104	Polarity T556 positive
+A1105	Aspect T556 food_style_options
+T557	Term 21874 21886	pesto sauces
+A1106	Polarity T557 positive
+A1107	Aspect T557 food_quality
+T558	Term 21926 21939	crawfish pies
+A1108	Polarity T558 positive
+A1109	Aspect T558 food_quality
+T559	Term 21951 21962	environment
+A1110	Polarity T559 positive
+A1111	Aspect T559 ambience_general
+T560	Term 22054 22059	sushi
+A1112	Polarity T560 positive
+A1113	Aspect T560 food_quality
+T561	Term 22096 22104	portions
+A1114	Polarity T561 negative
+A1115	Aspect T561 food_style_options
+T562	Term 22173 22179	arthur
+A1116	Polarity T562 positive
+A1117	Aspect T562 service_general
+T563	Term 22240 22246	drinks
+A1118	Polarity T563 positive
+A1119	Aspect T563 drinks_quality
+T564	Term 22258 22276	pitcher of sangria
+A1120	Polarity T564 positive
+A1121	Aspect T564 drinks_prices
+T565	Term 22291 22295	beer
+A1122	Polarity T565 positive
+A1123	Aspect T565 drinks_prices
+T566	Term 22314 22328	daily specials
+A1124	Polarity T566 positive
+A1125	Aspect T566 food_quality
+T567	Term 22361 22389	Captain Crunch Nutty Brother
+A1126	Polarity T567 positive
+A1127	Aspect T567 food_quality
+T568	Null 22472 22488	must go and stay
+A1128	Polarity T568 positive
+A1129	Aspect T568 restaurant_general
+T569	Term 22408 22427	beer mac and cheese
+A1130	Polarity T569 positive
+A1131	Aspect T569 food_style_options
+T570	Term 22408 22427	beer mac and cheese
+A1132	Polarity T570 positive
+A1133	Aspect T570 food_quality
+T571	Null 22489 22582	Was not rushed out once we finished with our food unlike some of the other local restaurants.
+A1134	Polarity T571 positive
+A1135	Aspect T571 service_general
+T572	Term 22583 22587	Food
+A1136	Aspect T572 food_quality
+T573	Null 22607 22617	Thumbs up.
+A1137	Polarity T573 positive
+A1138	Aspect T573 restaurant_general
+T574	Term 22626 22635	Hot Chick
+A1139	Polarity T574 positive
+A1140	Aspect T574 food_quality
+T575	Term 22653 22662	starbucks
+A1141	Polarity T575 negative
+A1142	Aspect T575 restaurant_general
+T576	Term 22667 22671	nero
+A1143	Polarity T576 positive
+A1144	Aspect T576 restaurant_general
+T577	Term 22682 22692	Thundercat
+A1145	Polarity T577 positive
+A1146	Aspect T577 food_quality
+T578	Null 22703 22723	Should check it out.
+A1147	Polarity T578 positive
+A1148	Aspect T578 food_quality
+T579	Null 22724 22924	Been here for breakfst and dinner.As it is always full in the morning, the waiter and the food might not serve/taste as the way they should be.Anywhere,roti bakar,roti keping,coffees are all awesomes.
+A1149	Polarity T579 negative
+A1150	Aspect T579 ambience_general
+T580	Term 22799 22805	waiter
+A1151	Polarity T580 negative
+A1152	Aspect T580 service_general
+T581	Term 22814 22818	food
+A1153	Polarity T581 negative
+A1154	Aspect T581 food_quality
+T582	Term 22876 22886	roti bakar
+A1155	Polarity T582 positive
+A1156	Aspect T582 food_quality
+T583	Term 22887 22898	roti keping
+A1157	Polarity T583 positive
+A1158	Aspect T583 food_quality
+T584	Term 22899 22906	coffees
+A1159	Polarity T584 positive
+A1160	Aspect T584 drinks_quality
+T585	Term 22959 22970	craft beers
+A1161	Polarity T585 positive
+A1162	Aspect T585 drinks_quality
+T586	Null 23078 23116	Excellent choice for beer aficionados.
+A1163	Polarity T586 positive
+A1164	Aspect T586 restaurant_general
+T587	Term 23126 23136	croissants
+A1165	Polarity T587 positive
+A1166	Aspect T587 food_quality
+T588	Term 23166 23170	food
+A1167	Polarity T588 positive
+A1168	Aspect T588 food_quality
+T589	Term 23032 23040	pilsener
+A1169	Polarity T589 positive
+A1170	Aspect T589 food_style_options
+T590	Term 23045 23055	wheat beer
+A1171	Polarity T590 positive
+A1172	Aspect T590 drinks_style_options
+T591	Term 23174 23180	Fondue
+A1173	Polarity T591 positive
+A1174	Aspect T591 food_quality
+T592	Null 23190 23231	They're pretty good and very inexpensive.
+A1175	Polarity T592 positive
+A1176	Aspect T592 food_quality
+T593	Null 23190 23231	They're pretty good and very inexpensive.
+A1177	Polarity T593 positive
+A1178	Aspect T593 food_prices
+T594	Term 23232 23268	Deep fried cheeseburger spring rolls
+A1179	Polarity T594 positive
+A1180	Aspect T594 food_quality
+T595	Term 23299 23345	seared scallops with pepper jack poblano grits
+A1181	Polarity T595 positive
+A1182	Aspect T595 food_quality
+T596	Null 23347 23373	We can't get enough of it.
+A1183	Polarity T596 positive
+A1184	Aspect T596 food_quality
+T597	Term 23423 23435	garden patio
+A1185	Polarity T597 positive
+A1186	Aspect T597 ambience_general
+T598	Term 23447 23451	food
+A1187	Polarity T598 positive
+A1188	Aspect T598 food_quality
+T599	Term 23458 23462	wine
+A1189	Polarity T599 positive
+A1190	Aspect T599 drinks_style_options
+T600	Term 23477 23485	ambience
+A1191	Aspect T600 ambience_general
+T601	Term 23494 23501	service
+A1192	Polarity T601 positive
+A1193	Aspect T601 service_general
+T602	Null 23503 23514	very tasty!
+A1194	Polarity T602 positive
+A1195	Aspect T602 food_quality
+T603	Term 23523 23536	pumpkin smash
+A1196	Polarity T603 positive
+A1197	Aspect T603 food_quality
+T604	Null 23575 23584	Yummy :-)
+A1198	Polarity T604 positive
+A1199	Aspect T604 food_quality
+T605	Null 23585 23624	This million calorie shake is worth it!
+A1200	Polarity T605 positive
+A1201	Aspect T605 food_quality
+T606	Term 23629 23640	onion rings
+A1202	Polarity T606 positive
+A1203	Aspect T606 food_quality
+T607	Term 23629 23640	onion rings
+A1204	Polarity T607 positive
+A1205	Aspect T607 food_style_options
+T608	Term 23677 23699	turkish coffee on sand
+A1206	Polarity T608 positive
+A1207	Aspect T608 drinks_quality
+T609	Null 23701 23775	A true delight :) Also once in month on Mondays they hold poetry readings.
+A1208	Polarity T609 positive
+A1209	Aspect T609 drinks_quality
+T610	Null 23701 23775	A true delight :) Also once in month on Mondays they hold poetry readings.
+A1210	Polarity T610 positive
+A1211	Aspect T610 ambience_general
+T611	Term 23798 23803	place
+A1212	Polarity T611 positive
+A1213	Aspect T611 restaurant_general
+T612	Null 23837 23842	High.
+A1214	Polarity T612 positive
+A1215	Aspect T612 restaurant_general
+T613	Null 23843 23847	Wow.
+A1216	Polarity T613 positive
+A1217	Aspect T613 restaurant_general
+T614	Term 23863 23871	omlettes
+A1218	Polarity T614 positive
+A1219	Aspect T614 food_quality
+T615	Term 23888 23930	ham & cheese with potatoes and wheat toast
+A1220	Polarity T615 positive
+A1221	Aspect T615 food_quality
+T616	Term 23978 23990	Hopfenweisse
+A1222	Polarity T616 positive
+A1223	Aspect T616 drinks_quality
+T617	Term 24029 24041	Bocca coffee
+A1224	Polarity T617 positive
+A1225	Aspect T617 drinks_quality
+T619	Term 24127 24132	delis
+A1228	Polarity T619 positive
+A1229	Aspect T619 food_quality
+T620	Term 24157 24162	space
+A1230	Polarity T620 positive
+A1231	Aspect T620 ambience_general
+T621	Term 24168 24178	fried fish
+A1232	Polarity T621 negative
+A1233	Aspect T621 food_style_options
+T622	Term 24211 24215	cups
+A1234	Polarity T622 negative
+A1235	Aspect T622 drinks_style_options
+T623	Term 24230 24240	sandwiches
+A1236	Polarity T623 positive
+A1237	Aspect T623 food_quality
+T624	Term 24258 24264	coffee
+A1238	Polarity T624 positive
+A1239	Aspect T624 drinks_style_options
+T625	Term 24288 24294	people
+A1240	Polarity T625 positive
+A1241	Aspect T625 service_general
+T626	Term 24350 24355	place
+A1242	Polarity T626 positive
+A1243	Aspect T626 ambience_general
+T627	Term 24372 24376	food
+A1244	Polarity T627 negative
+A1245	Aspect T627 food_quality
+T628	Null 24329 24345	Gotta love Wawa!
+A1246	Polarity T628 positive
+A1247	Aspect T628 restaurant_general
+T629	Null 24398 24428	It doesn't even worth trying !
+A1248	Polarity T629 negative
+A1249	Aspect T629 restaurant_general
+T630	Term 24439 24445	burger
+A1250	Polarity T630 negative
+A1251	Aspect T630 food_quality
+T631	Null 24462 24554	Great choice in the area - had dinner and was impressed enough to repeat for lunch next day!
+A1252	Polarity T631 positive
+A1253	Aspect T631 restaurant_general
+T632	Term 24565 24572	seafood
+A1254	Polarity T632 positive
+A1255	Aspect T632 food_quality
+T633	Term 24574 24580	Server
+A1256	Polarity T633 negative
+A1257	Aspect T633 service_general
+T634	Null 24636 24640	Boo.
+A1258	Polarity T634 negative
+T635	Null 24641 24645	Omg.
+A1259	Polarity T635 positive
+A1260	Aspect T635 restaurant_general
+T636	Term 24669 24683	grilled cheese
+A1261	Polarity T636 positive
+A1262	Aspect T636 food_quality
+T637	Term 24838 24856	big bad wolf sause
+A1263	Polarity T637 positive
+A1264	Aspect T637 food_quality
+T638	Null 24858 24868	Yummmmm <3
+A1265	Polarity T638 positive
+A1266	Aspect T638 food_quality
+T639	Term 24884 24891	service
+A1267	Polarity T639 positive
+A1268	Aspect T639 service_general
+T640	Term 24874 24878	food
+A1269	Polarity T640 positive
+A1270	Aspect T640 food_quality
+T641	Term 24901 24905	food
+A1271	Polarity T641 positive
+A1272	Aspect T641 food_quality
+T642	Term 24913 24923	happy hour
+A1273	Polarity T642 positive
+A1274	Aspect T642 restaurant_miscellaneous
+T643	Term 24936 24947	craft pints
+A1275	Polarity T643 positive
+A1276	Aspect T643 drinks_prices
+T644	Term 24959 24964	staff
+A1277	Polarity T644 positive
+A1278	Aspect T644 service_general
+T645	Term 24969 24976	service
+A1279	Polarity T645 positive
+A1280	Aspect T645 service_general
+T646	Term 24986 24993	Service
+A1281	Polarity T646 negative
+A1282	Aspect T646 service_general
+T647	Null 25003 25047	And is overpriced AVOID leave while you can.
+A1283	Polarity T647 negative
+A1284	Aspect T647 restaurant_prices
+T648	Term 25048 25055	Service
+A1285	Polarity T648 negative
+A1286	Aspect T648 service_general
+T649	Null 25003 25047	And is overpriced AVOID leave while you can.
+A1287	Polarity T649 negative
+A1288	Aspect T649 restaurant_general
+T650	Term 25130 25142	Frappuccinos
+A1289	Polarity T650 negative
+A1290	Aspect T650 drinks_quality
+T651	Term 25173 25208	Strawberry Smoothie with no Protein
+A1291	Polarity T651 positive
+A1292	Aspect T651 drinks_quality
+T652	Term 25217 25227	java chips
+A1293	Polarity T652 positive
+A1294	Aspect T652 food_quality
+T653	Null 25229 25245	It is, THE BOMB.
+A1295	Polarity T653 positive
+A1296	Aspect T653 drinks_quality
+T654	Term 25256 25261	place
+A1297	Polarity T654 positive
+A1298	Aspect T654 restaurant_general
+T655	Term 25316 25320	food
+A1299	Polarity T655 positive
+A1300	Aspect T655 food_quality
+T656	Term 25290 25297	karaoke
+A1301	Polarity T656 positive
+A1302	Aspect T656 ambience_general
+T657	Term 25332 25338	design
+A1303	Polarity T657 positive
+A1304	Aspect T657 ambience_general
+T658	Term 25392 25399	Krystal
+A1305	Polarity T658 positive
+A1306	Aspect T658 service_general
+T659	Null 25401 25425	She is the bomb dot com.
+A1307	Polarity T659 positive
+A1308	Aspect T659 service_general
+T660	Term 25559 25570	warm scones
+A1309	Polarity T660 positive
+A1310	Aspect T660 food_quality
+T661	Term 25594 25604	restaurant
+A1311	Polarity T661 positive
+A1312	Aspect T661 restaurant_general
+T662	Term 25627 25639	paneer tikka
+A1313	Polarity T662 positive
+A1314	Aspect T662 food_style_options
+T663	Null 25640 25722	They do have a firm $5 minimum for a credit card charge, that's my only complaint.
+A1315	Polarity T663 negative
+A1316	Aspect T663 restaurant_miscellaneous
+T664	Term 25742 25749	service
+A1317	Polarity T664 positive
+A1318	Aspect T664 service_general
+T665	Null 25783 25803	PEACHY PERFECTION!!!
+A1319	Polarity T665 positive
+A1320	Aspect T665 restaurant_general
+T666	Null 25828 25863	That's how you know how good it is!
+A1321	Polarity T666 positive
+A1322	Aspect T666 food_quality
+T667	Term 25909 25917	espresso
+A1323	Polarity T667 positive
+A1324	Aspect T667 food_quality
+T668	Term 25928 25935	service
+A1325	Polarity T668 positive
+A1326	Aspect T668 service_general
+T669	Term 25951 25964	chips n salsa
+A1327	Polarity T669 positive
+A1328	Aspect T669 food_quality
+T670	Term 25991 26002	Bloody Mary
+A1329	Polarity T670 positive
+A1330	Aspect T670 drinks_quality
+T671	Null 26035 26057	Parking is a nightmare
+A1331	Polarity T671 negative
+A1332	Aspect T671 restaurant_miscellaneous
+T672	Term 26063 26068	pizza
+A1333	Polarity T672 positive
+A1334	Aspect T672 food_quality
+T673	Term 26093 26102	Meat King
+A1335	Polarity T673 positive
+A1336	Aspect T673 food_quality
+T674	Term 26237 26254	coconut ice cream
+A1337	Polarity T674 positive
+A1338	Aspect T674 food_quality
+T675	Term 26283 26305	West Indian Fried Rice
+A1339	Polarity T675 positive
+A1340	Aspect T675 food_quality
+T676	Term 26307 26313	Pamela
+A1341	Polarity T676 positive
+A1342	Aspect T676 service_general
+T677	Term 26355 26363	Pad Thai
+A1343	Polarity T677 positive
+A1344	Aspect T677 food_quality
+T678	Term 26394 26399	staff
+A1345	Polarity T678 positive
+A1346	Aspect T678 service_general
+T679	Term 26404 26414	atmosphere
+A1347	Polarity T679 positive
+A1348	Aspect T679 ambience_general
+T680	Term 26426 26438	smoking room
+A1349	Polarity T680 positive
+A1350	Aspect T680 ambience_general
+T681	Term 26448 26452	menu
+A1351	Polarity T681 positive
+A1352	Aspect T681 food_style_options
+T682	Term 26493 26516	truffles scrambled eggs
+A1353	Polarity T682 positive
+A1354	Aspect T682 food_quality
+T683	Term 26518 26531	crab tiramisu
+A1355	Polarity T683 positive
+A1356	Aspect T683 food_quality
+T684	Term 26536 26541	wagyu
+A1357	Polarity T684 positive
+A1358	Aspect T684 food_quality
+T685	Term 26567 26574	service
+A1359	Polarity T685 negative
+A1360	Aspect T685 service_general
+T687	Term 26692 26696	food
+A1363	Polarity T687 negative
+A1364	Aspect T687 food_style_options
+T688	Null 26644 26712	In fact it's UGLY:neutral_face: and most of the food isn't available
+A1365	Polarity T688 negative
+A1366	Aspect T688 restaurant_general
+T689	Term 26731 26738	service
+A1367	Aspect T689 service_general
+T690	Term 26787 26792	foods
+A1368	Polarity T690 positive
+A1369	Aspect T690 food_quality
+T691	Null 26879 26906	Slowest drive through ever.
+A1370	Polarity T691 negative
+A1371	Aspect T691 service_general
+T692	Term 26911 26919	Taqueria
+A1372	Polarity T692 positive
+A1373	Aspect T692 restaurant_general
+T693	Term 27000 27019	Taco experience bar
+A1374	Polarity T693 positive
+A1375	Aspect T693 restaurant_general
+T694	Term 27068 27073	Pollo
+A1376	Polarity T694 positive
+A1377	Aspect T694 food_quality
+T695	Term 27075 27080	Carne
+A1378	Polarity T695 positive
+A1379	Aspect T695 food_quality
+T696	Term 27082 27089	Pescado
+A1380	Polarity T696 positive
+A1381	Aspect T696 food_quality
+T697	Null 27026 27103	Bite & texture of the shell makes it all; Pollo, Carne, Pescado, all superb!!
+A1382	Polarity T697 positive
+A1383	Aspect T697 food_quality
+T698	Term 27151 27159	calamari
+A1384	Aspect T698 food_quality
+A1385	Polarity T698 negative
+T699	Term 27202 27213	cream sauce
+A1386	Polarity T699 negative
+A1387	Aspect T699 food_quality
+T700	Term 27161 27167	Salads
+A1388	Polarity T700 negative
+A1389	Aspect T700 food_quality
+T702	Null 27226 27232	Blech!
+A1392	Polarity T702 negative
+A1393	Aspect T702 restaurant_general
+T703	Term 27245 27266	philly steak sandwich
+A1394	Polarity T703 positive
+A1395	Aspect T703 food_quality
+T704	Null 27292 27336	I like this one better than most in the area
+A1396	Polarity T704 positive
+A1397	Aspect T704 restaurant_general
+T705	Term 27379 27390	2ar3 3assal
+A1398	Polarity T705 positive
+A1399	Aspect T705 food_quality
+T706	Term 27483 27491	specials
+A1400	Polarity T706 positive
+A1401	Aspect T706 food_quality
+T707	Null 27511 27548	It was so hot my kids refused to eat.
+A1402	Polarity T707 negative
+A1403	Aspect T707 ambience_general
+T708	Term 27553 27569	air conditioning
+A1404	Polarity T708 negative
+A1405	Aspect T708 ambience_general
+T709	Term 27720 27726	reuben
+A1406	Polarity T709 negative
+A1407	Aspect T709 food_quality
+T710	Null 27728 27759	One of the worst I've ever had.
+A1408	Polarity T710 negative
+A1409	Aspect T710 food_quality
+T711	Term 27770 27780	menu items
+A1410	Polarity T711 positive
+A1411	Aspect T711 food_quality
+T712	Null 27877 27888	Soo yummy!!
+A1412	Polarity T712 positive
+A1413	Aspect T712 food_quality
+T713	Term 27899 27930	iced green tea strawberry creme
+A1414	Polarity T713 positive
+A1415	Aspect T713 food_quality
+T714	Term 28000 28021	Creamy Jalapeño sauce
+A1416	Polarity T714 positive
+A1417	Aspect T714 food_quality
+T715	Term 28132 28136	beer
+A1418	Polarity T715 positive
+A1419	Aspect T715 drinks_quality
+T716	Null 28127 28155	Good beer, tourist prices ;)
+A1420	Polarity T716 negative
+A1421	Aspect T716 restaurant_prices
+T717	Term 28171 28176	place
+A1422	Polarity T717 positive
+A1423	Aspect T717 restaurant_general
+T718	Term 28190 28200	atmosphere
+A1424	Polarity T718 positive
+A1425	Aspect T718 ambience_general
+T719	Term 28257 28262	place
+A1426	Polarity T719 positive
+A1427	Aspect T719 restaurant_miscellaneous
+T720	Term 28336 28343	service
+A1428	Polarity T720 negative
+A1429	Aspect T720 service_general
+T721	Null 28352 28385	Expensive and not very authentic.
+A1430	Polarity T721 negative
+A1431	Aspect T721 restaurant_prices
+T722	Term 28406 28435	Thurs/Fri are the best nights
+A1432	Polarity T722 positive
+A1433	Aspect T722 restaurant_miscellaneous
+T723	Term 28440 28447	brownie
+A1434	Polarity T723 positive
+A1435	Aspect T723 food_quality
+T724	Term 28468 28472	dish
+A1436	Polarity T724 positive
+A1437	Aspect T724 food_quality
+T725	Term 28483 28487	some
+A1438	Polarity T725 neutral
+A1439	Aspect T725 food_quality
+T726	Term 28524 28543	salad and fruit bar
+A1440	Polarity T726 positive
+A1441	Aspect T726 food_style_options
+T727	Term 28551 28566	interior design
+A1442	Polarity T727 positive
+A1443	Aspect T727 ambience_general
+T728	Term 28573 28587	picy tuna roll
+A1444	Polarity T728 positive
+A1445	Aspect T728 food_prices
+T729	Term 28601 28611	Pork tacos
+A1446	Polarity T729 neutral
+A1447	Aspect T729 food_quality
+T730	Term 28641 28648	portion
+A1448	Polarity T730 positive
+A1449	Aspect T730 food_style_options
+T731	Term 28659 28675	strawberry salad
+A1450	Polarity T731 positive
+A1451	Aspect T731 food_quality
+T732	Term 28688 28705	whole wheat bread
+A1452	Polarity T732 positive
+A1453	Aspect T732 food_quality
+T733	Null 28760 28769	Yummmmy!!
+A1454	Polarity T733 positive
+A1455	Aspect T733 food_quality
+T734	Term 28783 28786	pho
+A1456	Polarity T734 positive
+A1457	Aspect T734 food_quality
+T735	Term 28828 28836	beef pho
+A1458	Polarity T735 positive
+A1459	Aspect T735 food_quality
+T736	Term 28861 28884	baby back ribs & shrimp
+A1460	Polarity T736 positive
+A1461	Aspect T736 food_quality
+T737	Null 28907 28908	♡
+A1462	Polarity T737 positive
+A1463	Aspect T737 food_quality
+T738	Term 28966 28976	atmosphere
+A1464	Polarity T738 positive
+A1465	Aspect T738 ambience_general
+T739	Term 28997 29004	service
+A1466	Polarity T739 positive
+A1467	Aspect T739 service_general
+T740	Term 29041 29063	Sweet & Chilli chicken
+A1468	Polarity T740 positive
+A1469	Aspect T740 food_quality
+T741	Term 29125 29136	coffee shop
+A1470	Polarity T741 positive
+A1471	Aspect T741 restaurant_general
+T742	Term 29223 29235	burger joint
+A1472	Polarity T742 positive
+A1473	Aspect T742 restaurant_general
+T744	Term 29283 29299	signature frieds
+A1476	Polarity T744 positive
+A1477	Aspect T744 food_quality
+T745	Term 29384 29396	Por Pia Thod
+A1478	Polarity T745 positive
+A1479	Aspect T745 food_quality
+T746	Term 29400 29411	Tod Mun Pla
+A1480	Polarity T746 positive
+A1481	Aspect T746 food_quality
+T747	Term 29415 29420	Goong
+A1482	Polarity T747 positive
+A1483	Aspect T747 food_quality
+T748	Term 29474 29480	brunch
+A1484	Polarity T748 positive
+A1485	Aspect T748 food_quality
+T749	Term 29512 29529	Hot-N-Ready pizza
+A1486	Polarity T749 positive
+A1487	Aspect T749 food_quality
+T750	Term 29613 29617	food
+A1488	Polarity T750 positive
+A1489	Aspect T750 food_quality
+T751	Term 29650 29660	roast pork
+A1490	Polarity T751 positive
+A1491	Aspect T751 food_quality
+T752	Term 29674 29681	burgers
+A1492	Polarity T752 positive
+A1493	Aspect T752 food_quality
+T753	Term 29847 29862	Nova on a Bagel
+A1494	Polarity T753 positive
+A1495	Aspect T753 food_quality
+T754	Term 29981 29988	Jessica
+A1496	Polarity T754 positive
+A1497	Aspect T754 service_general
+T755	Null 30018 30105	No drive-through, so have fun navigating the horrible parking lot and snarled entryway.
+A1498	Polarity T755 negative
+A1499	Aspect T755 restaurant_miscellaneous
+T756	Term 30124 30137	sandwich spot
+A1500	Polarity T756 positive
+A1501	Aspect T756 restaurant_general
+T757	Null 30152 30182	Be prepared to wait in line...
+A1502	Polarity T757 negative
+A1503	Aspect T757 service_general
+T758	Null 30183 30204	The wait is worth it.
+A1504	Polarity T758 positive
+A1505	Aspect T758 food_quality
+T759	Term 30205 30209	Food
+A1506	Polarity T759 positive
+A1507	Aspect T759 food_quality
+T760	Term 30226 30236	Wait staff
+A1508	Polarity T760 positive
+A1509	Aspect T760 service_general
+T761	Term 30270 30280	live music
+A1510	Polarity T761 positive
+A1511	Aspect T761 ambience_general
+T762	Term 30282 30294	Garlic bread
+A1512	Polarity T762 positive
+A1513	Aspect T762 food_quality
+T763	Term 30309 30314	place
+A1514	Polarity T763 positive
+A1515	Aspect T763 restaurant_prices
+T764	Term 30485 30490	staff
+A1516	Polarity T764 positive
+A1517	Aspect T764 service_general
+T765	Term 30500 30513	senior manger
+A1518	Polarity T765 positive
+A1519	Aspect T765 service_general
+T766	Term 30517 30528	junior team
+A1520	Polarity T766 positive
+A1521	Aspect T766 service_general
+T767	Term 30571 30578	service
+A1522	Polarity T767 positive
+A1523	Aspect T767 service_general
+T768	Term 30586 30591	taste
+A1524	Polarity T768 positive
+A1525	Aspect T768 food_quality
+T769	Null 30734 30765	I'm the only thing good in here
+A1526	Polarity T769 negative
+A1527	Aspect T769 restaurant_general
+T770	Term 30770 30775	fries
+A1528	Polarity T770 positive
+A1529	Aspect T770 food_quality
+T771	Term 30793 30802	dumplings
+A1530	Polarity T771 positive
+A1531	Aspect T771 food_quality
+T772	Term 30827 30830	pan
+A1532	Polarity T772 negative
+A1533	Aspect T772 food_quality
+T773	Term 30849 30862	non-veg combo
+A1534	Polarity T773 positive
+A1535	Aspect T773 food_prices
+T774	Null 30910 30981	Need to take some time to find this restaurant as the road is vry dark.
+A1536	Polarity T774 negative
+A1537	Aspect T774 location_general
+T775	Null 30982 30997	Worth the trip!
+A1538	Polarity T775 positive
+A1539	Aspect T775 restaurant_general
+T776	Term 31011 31021	steam fish
+A1540	Polarity T776 positive
+A1541	Aspect T776 food_quality
+T777	Term 31023 31040	salted egg sotong
+A1542	Polarity T777 positive
+A1543	Aspect T777 food_quality
+T778	Term 31044 31053	pork hand
+A1544	Polarity T778 positive
+A1545	Aspect T778 food_quality
+T779	Term 31064 31092	banana foster and red velvet
+A1546	Polarity T779 positive
+A1547	Aspect T779 food_quality
+T780	Term 31093 31107	Mac and cheese
+A1548	Polarity T780 positive
+A1549	Aspect T780 food_quality
+T781	Term 31093 31107	Mac and cheese
+A1550	Polarity T781 positive
+A1551	Aspect T781 food_style_options
+T782	Term 31150 31162	biscuit bomb
+A1552	Polarity T782 positive
+A1553	Aspect T782 food_quality
+T783	Term 31193 31197	food
+A1554	Polarity T783 positive
+A1555	Aspect T783 food_quality
+T784	Term 31221 31225	cava
+A1556	Polarity T784 positive
+A1557	Aspect T784 drinks_quality
+T785	Term 31250 31258	location
+A1558	Polarity T785 negative
+A1559	Aspect T785 location_general
+T786	Term 31289 31294	place
+A1560	Polarity T786 positive
+A1561	Aspect T786 restaurant_general
+T787	Null 31295 31392	Don't come by here at 2:30 pm or so unless you want to stand in line with a dozen + teenyboppers!
+A1562	Polarity T787 negative
+A1563	Aspect T787 restaurant_miscellaneous
+T788	Null 31393 31401	It's ok!
+A1564	Polarity T788 positive
+A1565	Aspect T788 restaurant_general
+T789	Term 31402 31420	Kashmir Restaurant
+A1566	Polarity T789 positive
+A1567	Aspect T789 restaurant_general
+T790	Term 31488 31495	chicken
+A1568	Polarity T790 positive
+A1569	Aspect T790 food_quality
+T791	Term 31517 31520	dal
+A1570	Polarity T791 positive
+A1571	Aspect T791 food_quality
+T792	Term 31529 31536	biryani
+A1572	Polarity T792 positive
+A1573	Aspect T792 food_quality
+T793	Term 31557 31561	naan
+A1574	Polarity T793 positive
+A1575	Aspect T793 food_quality
+T794	Term 31595 31609	mac and cheese
+A1576	Polarity T794 positive
+A1577	Aspect T794 food_quality
+T795	Term 31680 31688	shawarma
+A1578	Polarity T795 positive
+A1579	Aspect T795 food_quality
+T796	Term 31738 31750	Sam Sandwich
+A1580	Polarity T796 positive
+A1581	Aspect T796 food_quality
+T797	Term 31791 31795	Lamb
+A1582	Polarity T797 positive
+A1583	Aspect T797 food_quality
+T798	Term 31854 31859	place
+A1584	Polarity T798 positive
+A1585	Aspect T798 restaurant_general
+T799	Null 31895 31902	Wooooot
+A1586	Polarity T799 positive
+A1587	Aspect T799 restaurant_general
+T800	Term 31903 31906	Dan
+A1588	Polarity T800 positive
+A1589	Aspect T800 service_general
+T801	Term 31993 31996	Dan
+A1590	Polarity T801 positive
+A1591	Aspect T801 service_general
+T802	Null 31932 31985	He's fast, friendly, and gives great recommendations.
+A1592	Polarity T802 positive
+A1593	Aspect T802 service_general
+T803	Term 32033 32040	setting
+A1594	Polarity T803 positive
+A1595	Aspect T803 ambience_general
+T804	Term 32062 32066	food
+A1596	Polarity T804 positive
+A1597	Aspect T804 food_quality
+T805	Term 32062 32066	food
+A1598	Polarity T805 positive
+A1599	Aspect T805 food_style_options
+T806	Term 32070 32074	Eric
+A1600	Polarity T806 positive
+A1601	Aspect T806 service_general
+T807	Null 32083 32109	Make sure you ask for him!
+A1602	Polarity T807 positive
+A1603	Aspect T807 service_general
+T808	Term 32127 32131	food
+A1604	Polarity T808 positive
+A1605	Aspect T808 food_quality
+T809	Term 32127 32131	food
+A1606	Polarity T809 positive
+A1607	Aspect T809 food_style_options
+T810	Term 32196 32202	drinks
+A1608	Polarity T810 positive
+A1609	Aspect T810 drinks_quality
+T811	Term 32213 32218	Ramen
+A1610	Polarity T811 positive
+A1611	Aspect T811 food_quality
+T812	Term 32275 32284	Breakfast
+A1612	Polarity T812 positive
+A1613	Aspect T812 food_quality
+T813	Term 32237 32242	Ramen
+A1614	Polarity T813 neutral
+A1615	Aspect T813 food_style_options
+T814	Null 32291 32318	It will never do you wrong.
+A1616	Polarity T814 positive
+A1617	Aspect T814 food_quality
+T815	Term 32319 32330	House sauce
+A1618	Polarity T815 positive
+A1619	Aspect T815 food_quality
+T816	Term 32351 32374	beer battered fish taco
+A1620	Polarity T816 positive
+A1621	Aspect T816 food_quality
+T817	Term 32376 32380	Drew
+A1622	Polarity T817 positive
+A1623	Aspect T817 service_general
+T818	Null 32417 32430	Go visit him.
+A1624	Polarity T818 positive
+A1625	Aspect T818 service_general
+T819	Term 32561 32575	Oreo milkshake
+A1626	Polarity T819 positive
+A1627	Aspect T819 drinks_quality
+T820	Null 32577 32621	Overall it is delicious but a little pricey.
+A1628	Polarity T820 positive
+A1629	Aspect T820 food_quality
+T821	Null 32577 32621	Overall it is delicious but a little pricey.
+A1630	Polarity T821 negative
+A1631	Aspect T821 restaurant_prices
+T822	Null 32622 32653	$15 for burger, fries, & shake.
+A1632	Polarity T822 negative
+A1633	Aspect T822 restaurant_prices
+T823	Term 32654 32666	Dim Sum Menu
+A1634	Polarity T823 positive
+A1635	Aspect T823 food_quality
+T824	Term 32687 32703	taro "footballs"
+A1636	Polarity T824 positive
+A1637	Aspect T824 food_quality
+T825	Term 32708 32739	sio pao (steamed bbq pork buns)
+A1638	Polarity T825 positive
+A1639	Aspect T825 food_quality
+T826	Term 32748 32765	pan fried noodles
+A1640	Polarity T826 positive
+A1641	Aspect T826 food_quality
+T827	Term 32767 32792	Pork chop with spicy salt
+A1642	Polarity T827 positive
+A1643	Aspect T827 food_quality
+T828	Term 32816 32825	breakfast
+A1644	Polarity T828 positive
+A1645	Aspect T828 food_quality
+T829	Term 32831 32857	cornbread with maple syrup
+A1646	Polarity T829 positive
+A1647	Aspect T829 food_quality
+T830	Term 32877 32891	lobster nachos
+A1648	Polarity T830 positive
+A1649	Aspect T830 food_quality
+T831	Null 32893 32936	They are fantastic and with a hint of spice
+A1650	Polarity T831 positive
+A1651	Aspect T831 food_quality
+T832	Term 32945 32951	owners
+A1652	Polarity T832 positive
+A1653	Aspect T832 service_general
+T833	Null 32965 33016	If you haven't been here in a while, check it out!!
+A1654	Polarity T833 positive
+A1655	Aspect T833 restaurant_general
+T834	Term 33022 33028	coffee
+A1656	Polarity T834 positive
+A1657	Aspect T834 drinks_quality
+T835	Term 33044 33070	“Tarama” (salted fist roe)
+A1658	Polarity T835 positive
+A1659	Aspect T835 food_quality
+T836	Term 33072 33094	sour marinated seabass
+A1660	Polarity T836 positive
+A1661	Aspect T836 food_quality
+T837	Term 33099 33112	pickled tunny
+A1662	Polarity T837 positive
+A1663	Aspect T837 food_quality
+T838	Null 33029 33113	Recommendable; “Tarama” (salted fist roe), sour marinated seabass and pickled tunny.
+A1664	Polarity T838 positive
+A1665	Aspect T838 restaurant_general
+T839	Term 33123 33132	apple pie
+A1666	Polarity T839 positive
+A1667	Aspect T839 food_quality
+T840	Term 33156 33186	chocolate covered strawberries
+A1668	Polarity T840 positive
+A1669	Aspect T840 food_quality
+T841	Term 33198 33213	vinsetta burger
+A1670	Polarity T841 positive
+A1671	Aspect T841 food_quality
+T842	Null 33215 33241	You won't be disappointed!
+A1672	Polarity T842 positive
+A1673	Aspect T842 food_quality
+T843	Term 33334 33338	food
+A1674	Polarity T843 positive
+A1675	Aspect T843 food_style_options
+T844	Null 33314 33393	A good selection of food, and fast on bringing out new when the pans are empty.
+A1676	Polarity T844 positive
+A1677	Aspect T844 service_general
+T845	Term 33413 33421	restroom
+A1678	Polarity T845 negative
+A1679	Aspect T845 ambience_general
+T846	Term 33425 33438	Salmon Bennie
+A1680	Polarity T846 positive
+A1681	Aspect T846 food_quality
+T847	Term 33481 33487	burger
+A1682	Polarity T847 positive
+A1683	Aspect T847 food_quality
+T848	Term 33491 33505	skirt sandwich
+A1684	Polarity T848 positive
+A1685	Aspect T848 food_quality
+T849	Term 33526 33532	juices
+A1686	Polarity T849 positive
+A1687	Aspect T849 drinks_style_options
+T850	Term 33537 33541	teas
+A1688	Polarity T850 positive
+A1689	Aspect T850 drinks_style_options
+T851	Null 33582 33601	Hipster's paradise.
+A1690	Polarity T851 positive
+A1691	Aspect T851 ambience_general
+T852	Term 33610 33625	Ethiopian Yirga
+A1692	Polarity T852 positive
+A1693	Aspect T852 food_quality
+T853	Null 33627 33664	Looking through the bag isn't enough.
+A1694	Polarity T853 negative
+A1695	Aspect T853 service_general
+T854	Null 33665 33743	Dump it out on your seat so you don't drive home without your chicken nuggets.
+A1696	Polarity T854 negative
+A1697	Aspect T854 service_general
+T855	Null 33744 33821	They will make good on the missing nuggets, but that's a half an hour wasted!
+A1698	Polarity T855 positive
+A1699	Aspect T855 service_general
+T856	Null 33744 33821	They will make good on the missing nuggets, but that's a half an hour wasted!
+A1700	Polarity T856 negative
+A1701	Aspect T856 service_general
+T857	Term 33830 33847	Pu Pu app platter
+A1702	Polarity T857 positive
+A1703	Aspect T857 food_quality
+T858	Term 33849 33862	Bo Bo Chicken
+A1704	Polarity T858 positive
+A1705	Aspect T858 food_quality
+T859	Term 33881 33913	appetizer - wood-grilled octopus
+A1706	Polarity T859 positive
+A1707	Aspect T859 food_quality
+T860	Term 33943 33953	restaurant
+A1708	Aspect T860 restaurant_general
+A1709	Polarity T860 positive
+T861	Null 33960 34021	Been going there since I was just a kid, and nobody compares!
+A1710	Polarity T861 positive
+A1711	Aspect T861 restaurant_general
+T862	Null 34022 34044	I highly recommend it!
+A1712	Polarity T862 positive
+A1713	Aspect T862 restaurant_general
+T863	Term 34051 34070	speculoos mc flurry
+A1714	Polarity T863 positive
+A1715	Aspect T863 food_quality
+T864	Term 34092 34108	whole wheat pita
+A1716	Polarity T864 positive
+A1717	Aspect T864 food_quality
+T865	Term 34092 34108	whole wheat pita
+A1718	Polarity T865 positive
+A1719	Aspect T865 food_prices
+T866	Term 34142 34151	curry mee
+A1720	Polarity T866 negative
+A1721	Aspect T866 food_quality
+T867	Term 34205 34212	portion
+A1722	Polarity T867 negative
+A1723	Aspect T867 food_style_options
+T868	Null 34196 34250	so SMALL portion and it cost rm4.30.. taste bad too...
+A1724	Polarity T868 negative
+A1725	Aspect T868 food_prices
+T869	Null 34196 34250	so SMALL portion and it cost rm4.30.. taste bad too...
+A1726	Polarity T869 negative
+A1727	Aspect T869 food_quality
+T870	Term 34256 34269	sandwich shop
+A1728	Polarity T870 positive
+A1729	Aspect T870 restaurant_general
+T871	Term 34377 34384	burgers
+A1730	Polarity T871 positive
+A1731	Aspect T871 food_quality
+T872	Term 34310 34328	beverage dispenser
+A1732	Polarity T872 positive
+A1733	Aspect T872 ambience_general
+T873	Term 34454 34464	semifreddo
+A1734	Polarity T873 positive
+A1735	Aspect T873 food_quality
+T874	Null 34473 34502	I'll have one of those please
+A1736	Polarity T874 positive
+A1737	Aspect T874 food_quality
+T875	Term 34503 34541	Rabarb cream brulee with rabarb sorbet
+A1738	Polarity T875 positive
+A1739	Aspect T875 food_quality
+T876	Term 34568 34577	breakfast
+A1740	Polarity T876 positive
+A1741	Aspect T876 food_style_options
+T877	Null 34626 34640	Quite filling.
+A1742	Polarity T877 positive
+A1743	Aspect T877 food_style_options
+T878	Term 34645 34659	Armani Martini
+A1744	Polarity T878 positive
+A1745	Aspect T878 drinks_quality
+T879	Term 34693 34701	tiramisu
+A1746	Polarity T879 positive
+A1747	Aspect T879 food_quality
+T880	Term 34769 34779	aperitivos
+A1748	Polarity T880 positive
+A1749	Aspect T880 drinks_quality
+T881	Term 34769 34779	aperitivos
+A1750	Polarity T881 positive
+A1751	Aspect T881 drinks_prices
+T882	Term 34799 34812	Thai Iced Tea
+A1752	Polarity T882 neutral
+A1753	Aspect T882 drinks_quality
+T883	Term 34817 34828	potstickers
+A1754	Polarity T883 neutral
+A1755	Aspect T883 food_quality
+T884	Term 34848 34855	entrees
+A1756	Polarity T884 positive
+A1757	Aspect T884 food_quality
+T885	Term 34900 34904	Thai
+A1758	Polarity T885 positive
+A1759	Aspect T885 food_quality
+T886	Null 34930 34950	Don't expect a line.
+A1760	Polarity T886 negative
+A1761	Aspect T886 service_general
+T887	Null 34951 34997	You have to fight your way to place your order
+A1762	Polarity T887 negative
+A1763	Aspect T887 service_general
+T888	Term 35007 35014	service
+A1764	Polarity T888 negative
+A1765	Aspect T888 service_general
+T889	Null 35016 35060	Good thing I checked my order before I left.
+A1766	Polarity T889 negative
+A1767	Aspect T889 service_general
+T890	Null 35061 35095	feeling a little rich this morning
+A1768	Polarity T890 negative
+A1769	Aspect T890 food_style_options
+T891	Term 35102 35107	place
+A1770	Polarity T891 positive
+A1771	Aspect T891 restaurant_general
+T892	Term 35155 35162	service
+A1772	Polarity T892 positive
+A1773	Aspect T892 service_general
+T893	Null 35096 35184	Great place for a reasonably priced steak dinner in Vegas, service is always impeccable.
+A1774	Polarity T893 positive
+A1775	Aspect T893 restaurant_prices
+T894	Null 35185 35218	เกี๊ยวหมู world class :thumbs_up:
+A1776	Polarity T894 positive
+A1777	Aspect T894 restaurant_general
+T895	Term 35227 35245	Roasted Pear Salad
+A1778	Polarity T895 positive
+A1779	Aspect T895 food_quality
+T896	Term 35277 35281	Food
+A1780	Aspect T896 food_quality
+A1781	Polarity T896 neutral
+T897	Null 35298 35316	Price was alright.
+A1782	Polarity T897 positive
+A1783	Aspect T897 restaurant_prices
+T898	Term 35317 35330	Chicken curry
+A1784	Polarity T898 negative
+A1785	Aspect T898 food_quality
+T899	Term 35344 35364	Buffalo Medium wings
+A1786	Polarity T899 positive
+A1787	Aspect T899 food_quality
+T900	Term 35415 35421	bistro
+A1788	Polarity T900 positive
+A1789	Aspect T900 restaurant_general
+T901	Term 35451 35455	food
+A1790	Polarity T901 positive
+A1791	Aspect T901 food_quality
+T902	Term 35467 35474	service
+A1792	Polarity T902 positive
+A1793	Aspect T902 service_general
+T903	Term 35486 35490	view
+A1794	Polarity T903 positive
+A1795	Aspect T903 location_general
+T904	Term 35506 35511	staff
+A1796	Polarity T904 positive
+A1797	Aspect T904 service_general
+T905	Term 35647 35651	food
+A1798	Polarity T905 positive
+A1799	Aspect T905 food_quality
+T906	Term 35711 35716	staff
+A1800	Polarity T906 negative
+A1801	Aspect T906 service_general
+T907	Term 35794 35806	senior staff
+A1802	Polarity T907 positive
+A1803	Aspect T907 service_general
+T908	Term 35816 35832	biscuits & gravy
+A1804	Polarity T908 positive
+A1805	Aspect T908 food_quality
+T909	Null 35834 35845	Just do it.
+A1806	Polarity T909 positive
+A1807	Aspect T909 food_quality
+T910	Term 35846 35864	Choco Banana crepe
+A1808	Polarity T910 positive
+A1809	Aspect T910 food_quality
+T911	Term 35894 35901	brownie
+A1810	Polarity T911 positive
+A1811	Aspect T911 food_style_options
+T912	Term 35906 35913	Nutella
+A1812	Polarity T912 positive
+A1813	Aspect T912 food_style_options
+T913	Term 36011 36018	manager
+A1814	Polarity T913 negative
+A1815	Aspect T913 service_general
+T914	Null 36020 36037	Why so expensive?
+A1816	Aspect T914 restaurant_prices
+A1817	Polarity T914 negative
+T915	Term 36048 36052	food
+A1818	Polarity T915 neutral
+A1819	Aspect T915 food_quality
+T916	Term 36063 36068	place
+A1820	Polarity T916 neutral
+A1821	Aspect T916 restaurant_general
+T917	Term 36160 36175	al pastor tacos
+A1822	Polarity T917 positive
+A1823	Aspect T917 food_quality
+T918	Term 36102 36112	taco truck
+A1824	Polarity T918 positive
+A1825	Aspect T918 restaurant_general
+T919	Term 36201 36232	cucumber/onion/jalapeño mixture
+A1826	Polarity T919 positive
+A1827	Aspect T919 food_quality
+T920	Term 36273 36285	creme brulee
+A1828	Polarity T920 positive
+A1829	Aspect T920 food_quality
+T921	Term 36308 36315	chicken
+A1830	Polarity T921 positive
+A1831	Aspect T921 food_quality
+T922	Term 36574 36581	service
+A1832	Polarity T922 positive
+A1833	Aspect T922 service_general
+T923	Term 36592 36622	Tokyo Fog with tapioca and soy
+A1834	Polarity T923 positive
+A1835	Aspect T923 food_quality
+T924	Term 36649 36663	Lobster bisque
+A1836	Polarity T924 positive
+A1837	Aspect T924 food_quality
+T925	Term 36682 36697	chai milkshakes
+A1838	Polarity T925 positive
+A1839	Aspect T925 drinks_quality
+T926	Term 36722 36742	pljeskavica sandwich
+A1840	Polarity T926 positive
+A1841	Aspect T926 food_quality
+T928	Null 36799 36811	Spectacular.
+A1844	Polarity T928 positive
+A1845	Aspect T928 food_quality
+T929	Term 36850 36856	salads
+A1846	Polarity T929 negative
+A1847	Aspect T929 food_prices
+T930	Term 36860 36868	sandwich
+A1848	Polarity T930 negative
+A1849	Aspect T930 food_prices
+T931	Term 36885 36897	lobster roll
+A1850	Polarity T931 positive
+A1851	Aspect T931 food_quality
+T932	Term 36902 36922	lobster mac & cheese
+A1852	Polarity T932 positive
+A1853	Aspect T932 food_quality
+T933	Term 37025 37036	cheese cake
+A1854	Polarity T933 positive
+A1855	Aspect T933 food_quality
+T934	Term 36979 36987	tarragon
+A1856	Polarity T934 negative
+A1857	Aspect T934 food_quality
+T935	Term 37100 37115	homestyle fries
+A1858	Polarity T935 negative
+A1859	Aspect T935 food_quality
+T936	Null 37203 37258	still have to drown them in sauce to make them bearable
+A1860	Polarity T936 negative
+A1861	Aspect T936 food_quality
+T937	Term 37259 37275	Bang bang shrimp
+A1862	Polarity T937 positive
+A1863	Aspect T937 food_quality
+T938	Term 37306 37320	salmon sashimi
+A1864	Polarity T938 positive
+A1865	Aspect T938 food_quality
+T939	Term 37334 37338	food
+A1866	Polarity T939 neutral
+A1867	Aspect T939 food_quality
+T940	Term 37353 37360	service
+A1868	Polarity T940 negative
+A1869	Aspect T940 service_general
+T941	Null 37374 37435	I ordered a beer and our food came out but my beer never did.
+A1870	Polarity T941 negative
+A1871	Aspect T941 service_general
+T942	Term 37488 37502	Dunkin' Donuts
+A1872	Polarity T942 positive
+A1873	Aspect T942 food_quality
+T943	Term 37616 37623	service
+A1874	Polarity T943 positive
+A1875	Aspect T943 service_general
+T944	Term 37641 37645	ADAM
+A1876	Polarity T944 positive
+A1877	Aspect T944 service_general
+T945	Term 37679 37683	food
+A1878	Polarity T945 positive
+A1879	Aspect T945 food_quality
+T946	Term 37690 37697	service
+A1880	Polarity T946 positive
+A1881	Aspect T946 service_general
+T947	Term 37909 37922	chicken salad
+A1882	Polarity T947 positive
+A1883	Aspect T947 food_quality
+T948	Term 37928 37937	mushrooms
+A1884	Polarity T948 positive
+A1885	Aspect T948 food_quality
+T949	Term 37983 38037	grilled chickens salad with BBQ sauce, ranch and bread
+A1886	Polarity T949 positive
+A1887	Aspect T949 food_quality
+T950	Term 38063 38081	Dim Sum Restaurant
+A1888	Polarity T950 positive
+A1889	Aspect T950 restaurant_general
+T951	Term 38088 38095	service
+A1890	Polarity T951 positive
+A1891	Aspect T951 service_general
+T952	Term 38105 38109	boss
+A1892	Polarity T952 positive
+A1893	Aspect T952 service_general
+T953	Term 37475 37481	waiter
+A1894	Polarity T953 negative
+A1895	Aspect T953 service_general
+T954	Term 38216 38223	quality
+A1896	Polarity T954 positive
+A1897	Aspect T954 food_quality
+T955	Term 38230 38238	quantity
+A1898	Polarity T955 neutral
+A1899	Aspect T955 food_style_options
+T956	Null 38240 38270	This place reminds me of home.
+A1900	Polarity T956 positive
+A1901	Aspect T956 restaurant_general
+T957	Null 38336 38437	If they are busy and say "seat yourself", make sure they see where you sit or you could wait a while.
+A1902	Polarity T957 negative
+A1903	Aspect T957 service_general
+T958	Term 38325 38332	gahanna
+A1904	Polarity T958 positive
+A1905	Aspect T958 restaurant_general
+T959	Term 38306 38310	MINI
+A1906	Polarity T959 positive
+A1907	Aspect T959 food_quality
+T960	Term 38446 38453	Cortado
+A1908	Polarity T960 positive
+A1909	Aspect T960 food_quality
+T962	Term 38521 38525	Food
+A1912	Polarity T962 positive
+A1913	Aspect T962 food_quality
+T963	Term 38548 38555	service
+A1914	Polarity T963 positive
+A1915	Aspect T963 service_general
+T964	Null 38576 38650	They seem to be preoccupied with something and tend to "miss" eye contact.
+A1916	Polarity T964 negative
+A1917	Aspect T964 service_general
+T965	Term 38657 38667	milkshakes
+A1918	Polarity T965 positive
+A1919	Aspect T965 drinks_quality
+T966	Null 38692 38712	But highly variable.
+A1920	Polarity T966 negative
+A1921	Aspect T966 food_quality
+T967	Term 38733 38738	place
+A1922	Polarity T967 positive
+A1923	Aspect T967 ambience_general
+T968	Term 38863 38868	foods
+A1924	Polarity T968 positive
+A1925	Aspect T968 food_style_options
+T969	Term 38789 38796	catfish
+A1926	Polarity T969 positive
+A1927	Aspect T969 food_quality
+T970	Term 38801 38814	fried pickles
+A1928	Polarity T970 positive
+A1929	Aspect T970 food_quality
+T971	Term 38950 38962	PakNgah CAFE
+A1930	Polarity T971 positive
+A1931	Aspect T971 restaurant_general
+T972	Term 38974 38988	Chocolate Chip
+A1932	Polarity T972 positive
+A1933	Aspect T972 food_quality
+T973	Term 39009 39021	garlic fries
+A1934	Polarity T973 positive
+A1935	Aspect T973 food_quality
+T974	Term 39048 39051	BBQ
+A1936	Polarity T974 positive
+A1937	Aspect T974 food_quality
+T975	Term 39113 39123	Sandwiches
+A1938	Aspect T975 food_quality
+A1939	Polarity T975 positive
+T976	Term 39128 39138	pecan pies
+A1940	Polarity T976 positive
+A1941	Aspect T976 food_quality
+T977	Term 39053 39060	brisket
+A1942	Polarity T977 positive
+A1943	Aspect T977 food_quality
+T978	Term 39062 39066	ribs
+A1944	Polarity T978 positive
+A1945	Aspect T978 food_quality
+T979	Term 39068 39079	pulled pork
+A1946	Polarity T979 positive
+A1947	Aspect T979 food_quality
+T980	Term 39081 39088	chicken
+A1948	Polarity T980 positive
+A1949	Aspect T980 food_quality
+T981	Term 39090 39103	fried chicken
+A1950	Polarity T981 positive
+A1951	Aspect T981 food_quality
+T982	Term 39105 39112	sausage
+A1952	Polarity T982 positive
+A1953	Aspect T982 food_quality
+T983	Term 39232 39237	place
+A1954	Polarity T983 positive
+A1955	Aspect T983 restaurant_miscellaneous
+T984	Term 39329 39340	crispy duck
+A1956	Polarity T984 positive
+A1957	Aspect T984 food_quality
+T985	Term 39342 39354	Sweet potato
+A1958	Polarity T985 positive
+A1959	Aspect T985 food_quality
+T986	Term 39359 39373	sage dumplings
+A1960	Polarity T986 positive
+A1961	Aspect T986 food_quality
+T987	Term 39403 39408	staff
+A1962	Polarity T987 positive
+A1963	Aspect T987 service_general
+T988	Null 39459 39488	;) don't leave without her :p
+A1964	Polarity T988 positive
+A1965	Aspect T988 service_general
+T989	Term 39508 39540	Tom Yum maggi double with prawns
+A1966	Polarity T989 positive
+A1967	Aspect T989 food_quality
+T990	Term 39542 39550	foo chok
+A1968	Polarity T990 positive
+A1969	Aspect T990 food_quality
+T991	Term 39553 39563	fried fish
+A1970	Polarity T991 positive
+A1971	Aspect T991 food_quality
+T992	Term 39583 39593	extra soup
+A1972	Polarity T992 positive
+A1973	Aspect T992 food_quality
+T993	Term 39595 39606	extra spicy
+A1974	Polarity T993 positive
+A1975	Aspect T993 food_quality
+T994	Term 39609 39619	extra sour
+A1976	Polarity T994 positive
+A1977	Aspect T994 food_quality
+T995	Term 39651 39656	place
+A1978	Polarity T995 positive
+A1979	Aspect T995 restaurant_miscellaneous
+T996	Term 39688 39692	fire
+A1980	Polarity T996 positive
+A1981	Aspect T996 ambience_general
+T997	Term 39626 39643	Peanut butermoo'd
+A1982	Polarity T997 positive
+A1983	Aspect T997 drinks_quality
+T998	Term 39739 39747	tiramisu
+A1984	Polarity T998 positive
+A1985	Aspect T998 food_quality
+T999	Null 39835 39845	Delicious.
+A1986	Polarity T999 positive
+A1987	Aspect T999 food_quality
+T1000	Null 39846 39867	What isn't good here?
+A1988	Polarity T1000 positive
+A1989	Aspect T1000 food_quality
+T1001	Term 39894 39908	four veg plate
+A1990	Polarity T1001 positive
+A1991	Aspect T1001 food_quality
+T1002	Term 39983 39993	management
+A1992	Polarity T1002 negative
+A1993	Aspect T1002 service_general
+T1003	Null 40035 40062	They take 0 responsibility.
+A1994	Polarity T1003 negative
+A1995	Aspect T1003 service_general
+T1004	Null 40063 40166	Treat their nonfavorite employees like total garbage even when they do their job above the "favorites".
+A1996	Polarity T1004 negative
+A1997	Aspect T1004 service_general
+T1005	Null 40167 40175	YUM!!!!!
+A1998	Polarity T1005 positive
+A1999	Aspect T1005 food_quality
+T1006	Term 40181 40186	pizza
+A2000	Polarity T1006 positive
+A2001	Aspect T1006 food_quality
+T1007	Term 40237 40245	sandwich
+A2002	Polarity T1007 negative
+A2003	Aspect T1007 food_quality
+T1008	Term 40273 40277	food
+A2004	Polarity T1008 positive
+A2005	Aspect T1008 food_quality
+T1009	Term 40297 40307	atmosphere
+A2006	Polarity T1009 positive
+A2007	Aspect T1009 ambience_general
+T1010	Term 40273 40277	food
+A2008	Polarity T1010 positive
+A2009	Aspect T1010 food_prices
+T1011	Term 40326 40330	menu
+A2010	Polarity T1011 positive
+A2011	Aspect T1011 food_quality
+T1012	Term 40375 40379	food
+A2012	Polarity T1012 positive
+A2013	Aspect T1012 food_quality
+T1013	Term 40381 40407	Veggie burrito with shrimp
+A2014	Polarity T1013 positive
+A2015	Aspect T1013 food_quality
+T1014	Null 40409 40413	Yum!
+A2016	Polarity T1014 positive
+A2017	Aspect T1014 food_quality
+T1015	Term 40440 40445	place
+A2018	Polarity T1015 positive
+A2019	Aspect T1015 ambience_general
+T1016	Term 40440 40445	place
+A2020	Polarity T1016 positive
+A2021	Aspect T1016 restaurant_general
+T1017	Term 40460 40468	waitress
+A2022	Polarity T1017 positive
+A2023	Aspect T1017 service_general
+T1018	Term 40505 40512	tearoom
+A2024	Polarity T1018 positive
+A2025	Aspect T1018 restaurant_general
+T1019	Term 40564 40568	food
+A2026	Polarity T1019 positive
+A2027	Aspect T1019 food_quality
+T1020	Term 40570 40577	service
+A2028	Polarity T1020 positive
+A2029	Aspect T1020 service_general
+T1021	Term 40632 40644	Fort Wayne's
+A2030	Polarity T1021 positive
+A2031	Aspect T1021 restaurant_general
+T1022	Term 40685 40692	windows
+A2032	Polarity T1022 positive
+A2033	Aspect T1022 ambience_general
+T1023	Term 40738 40743	beers
+A2034	Polarity T1023 positive
+A2035	Aspect T1023 drinks_quality
+T1024	Term 40759 40775	Politician pizza
+A2036	Polarity T1024 positive
+A2037	Aspect T1024 food_quality
+T1025	Term 40780 40799	Jambalaya Flatbread
+A2038	Polarity T1025 positive
+A2039	Aspect T1025 food_quality
+T1026	Term 40835 40840	place
+A2040	Polarity T1026 positive
+A2041	Aspect T1026 restaurant_general
+T1027	Term 40895 40902	cuisine
+A2042	Polarity T1027 positive
+A2043	Aspect T1027 food_quality
+T1028	Term 40910 40915	place
+A2044	Polarity T1028 positive
+A2045	Aspect T1028 restaurant_general
+T1029	Term 40944 40952	ambiance
+A2046	Polarity T1029 positive
+A2047	Aspect T1029 ambience_general
+T1030	Null 40954 40969	:smiling_face:️
+A2048	Polarity T1030 positive
+A2049	Aspect T1030 restaurant_general
+T1031	Term 40970 40988	Vegetable pad Thai
+A2050	Polarity T1031 positive
+A2051	Aspect T1031 food_quality
+T1032	Term 41017 41029	Sapota drink
+A2052	Polarity T1032 positive
+A2053	Aspect T1032 drinks_quality
+T1033	Null 41002 41035	Along with the Sapota drink...YUM
+A2054	Polarity T1033 positive
+A2055	Aspect T1033 food_quality
+T1034	Null 41151 41167	It gets my tick!
+A2056	Polarity T1034 positive
+A2057	Aspect T1034 restaurant_general
+T1035	Term 41173 41178	place
+A2058	Polarity T1035 positive
+A2059	Aspect T1035 restaurant_general
+T1036	Term 41264 41293	Crab stuffed artichoke hearts
+A2060	Polarity T1036 positive
+A2061	Aspect T1036 food_quality
+T1037	Null 41295 41302	Delish!
+A2062	Polarity T1037 positive
+A2063	Aspect T1037 food_quality
+T1038	Term 41308 41313	stuff
+A2064	Polarity T1038 positive
+A2065	Aspect T1038 food_quality
+T1039	Term 41377 41386	Starbucks
+A2066	Polarity T1039 positive
+A2067	Aspect T1039 restaurant_general
+T1040	Null 41401 41447	We get promotion buy 2 get 1 free on sandwich.
+A2068	Polarity T1040 positive
+A2069	Aspect T1040 food_prices
+T1041	Term 41496 41509	sandwich club
+A2070	Polarity T1041 positive
+A2071	Aspect T1041 food_quality
+T1042	Term 41512 41521	green tea
+A2072	Polarity T1042 positive
+A2073	Aspect T1042 drinks_quality
+T1043	Term 41531 41550	raspberry smoothies
+A2074	Polarity T1043 positive
+A2075	Aspect T1043 food_quality
+T1044	Term 41565 41586	blueberry cheese cake
+A2076	Polarity T1044 positive
+A2077	Aspect T1044 food_quality
+T1045	Null 41601 41632	Definitely not speedy at night.
+A2078	Polarity T1045 negative
+A2079	Aspect T1045 service_general
+T1046	Null 41633 41672	So, be ready to practice your patience.
+A2080	Polarity T1046 negative
+A2081	Aspect T1046 service_general
+T1047	Term 41677 41686	crab rice
+A2082	Polarity T1047 negative
+A2083	Aspect T1047 food_quality
+T1048	Term 41746 41771	clams wi thai lemon sauce
+A2084	Polarity T1048 positive
+A2085	Aspect T1048 food_quality
+T1049	Term 41786 41798	grape prawns
+A2086	Polarity T1049 negative
+A2087	Aspect T1049 food_quality
+T1050	Term 41859 41864	salsa
+A2088	Polarity T1050 positive
+A2089	Aspect T1050 food_quality
+T1051	Null 41854 41896	Best salsa everrr, on good days though lol
+A2090	Polarity T1051 negative
+A2091	Aspect T1051 food_quality
+T1052	Null 41897 41941	$8.90 lunch deal comes with soup and a drink
+A2092	Polarity T1052 positive
+A2093	Aspect T1052 restaurant_prices
+T1053	Term 41954 41957	tea
+A2094	Polarity T1053 positive
+A2095	Aspect T1053 drinks_quality
+T1054	Term 41997 42014	breakfast biscuit
+A2096	Polarity T1054 positive
+A2097	Aspect T1054 food_quality
+T1055	Term 42056 42076	fried steak biscuits
+A2098	Polarity T1055 positive
+A2099	Aspect T1055 food_quality
+T1056	Term 42100 42112	cheeseburger
+A2100	Polarity T1056 positive
+A2101	Aspect T1056 food_quality
+T1057	Null 42078 42094	Time well spent!
+A2102	Polarity T1057 positive
+A2103	Aspect T1057 restaurant_general
+T1058	Term 42159 42181	Malay nasi lemak stall
+A2104	Polarity T1058 positive
+A2105	Aspect T1058 food_quality
+T1059	Null 42197 42271	Don't leave your valuables in the car if you are running in to get coffee.
+A2106	Polarity T1059 negative
+A2107	Aspect T1059 location_general
+T1060	Null 42272 42300	There are a lot if break-ins
+A2108	Polarity T1060 negative
+A2109	Aspect T1060 location_general
+T1061	Term 42301 42314	Chicken wings
+A2110	Polarity T1061 positive
+A2111	Aspect T1061 food_quality
+T1062	Term 42334 42341	service
+A2112	Polarity T1062 negative
+A2113	Aspect T1062 service_general
+T1063	Term 42355 42360	stuff
+A2114	Polarity T1063 negative
+A2115	Aspect T1063 service_general
+T1064	Term 42415 42424	pork ribs
+A2116	Polarity T1064 positive
+A2117	Aspect T1064 food_quality
+T1065	Term 42428 42434	Burger
+A2118	Polarity T1065 positive
+A2119	Aspect T1065 food_quality
+T1066	Null 18782 18823	Make sure you have PLENTY of time to eat.
+A2120	Polarity T1066 negative
+A2121	Aspect T1066 service_general
+T1067	Term 29181 29204	flavors of coffee beans
+A2122	Polarity T1067 positive
+A2123	Aspect T1067 food_style_options
+T1068	Term 37038 37044	Flores
+A2124	Polarity T1068 positive
+A2125	Aspect T1068 restaurant_general
+T1069	Null 42507 42529	They did get it right.
+A2126	Polarity T1069 positive
+A2127	Aspect T1069 service_general
+T1070	Null 42530 42586	Soft and tender, but still with that just grilled taste.
+A2128	Polarity T1070 positive
+A2129	Aspect T1070 food_quality
+T1071	Term 42604 42609	knish
+A2130	Polarity T1071 positive
+A2131	Aspect T1071 food_quality
+T1072	Term 42637 42642	sushi
+A2132	Polarity T1072 positive
+A2133	Aspect T1072 food_quality
+T1073	Term 42741 42748	burgers
+A2134	Polarity T1073 positive
+A2135	Aspect T1073 food_quality
+T1074	Null 42644 42758	I don't normally like big burgers and it's not a cheap burger, but this is truly one of the best burgers I've had.
+A2136	Polarity T1074 neutral
+A2137	Aspect T1074 food_prices
+T1075	Null 42759 42807	It's quite messy to eat but extremely delicious.
+A2138	Polarity T1075 positive
+A2139	Aspect T1075 food_quality
+T1076	Term 42820 42825	plate
+A2140	Polarity T1076 positive
+A2141	Aspect T1076 food_quality
+T1077	Term 42867 42884	vinegary potatoes
+A2142	Polarity T1077 positive
+A2143	Aspect T1077 food_quality
+T1078	Term 42906 42916	chai latte
+A2144	Polarity T1078 positive
+A2145	Aspect T1078 drinks_quality
+T1079	Term 42968 42979	ingredients
+A2146	Polarity T1079 negative
+A2147	Aspect T1079 food_quality
+T1080	Term 42988 42996	portions
+A2148	Polarity T1080 negative
+A2149	Aspect T1080 food_style_options
+T1081	Term 43004 43008	food
+A2150	Polarity T1081 negative
+A2151	Aspect T1081 food_prices
+T1082	Term 43029 43036	service
+A2152	Polarity T1082 neutral
+A2153	Aspect T1082 service_general
+T1083	Null 43038 43127	Order took too long though the place wasn't crowded, overall, it's an experience I regret
+A2154	Polarity T1083 negative
+A2155	Aspect T1083 service_general
+T1084	Null 43038 43127	Order took too long though the place wasn't crowded, overall, it's an experience I regret
+A2156	Polarity T1084 negative
+A2157	Aspect T1084 restaurant_general
+T1085	Null 43128 43162	Horrible parking during rush hour.
+A2158	Polarity T1085 negative
+T1086	Null 43163 43184	Actually at any hour.
+A2159	Polarity T1086 negative
+A2160	Aspect T1086 restaurant_miscellaneous
+T1087	Null 43260 43278	Cosy and elegant .
+A2161	Polarity T1087 positive
+A2162	Aspect T1087 ambience_general
+T1088	Null 43279 43295	Value for money.
+A2163	Polarity T1088 positive
+A2164	Aspect T1088 restaurant_prices
+T1089	Term 43296 43302	Porter
+A2165	Polarity T1089 positive
+A2166	Aspect T1089 service_general
+T1090	Null 43331 43370	Sit at the bar- he'll set you up right.
+A2167	Polarity T1090 positive
+A2168	Aspect T1090 service_general
+T1091	Term 43371 43394	Chocolate chip pancakes
+A2169	Polarity T1091 positive
+A2170	Aspect T1091 food_quality
+T1092	Term 43484 43492	Omelette
+A2171	Polarity T1092 positive
+A2172	Aspect T1092 food_quality
+T1093	Term 43518 43529	Hash browns
+A2173	Polarity T1093 positive
+A2174	Aspect T1093 food_quality
+T1094	Term 43591 43597	donuts
+A2175	Polarity T1094 positive
+A2176	Aspect T1094 food_quality
+T1095	Term 43682 43704	tuna & cucumber panini
+A2177	Polarity T1095 positive
+A2178	Aspect T1095 food_quality
+T1096	Term 43717 43721	tune
+A2179	Polarity T1096 positive
+A2180	Aspect T1096 food_quality
+T1097	Term 43743 43749	panini
+A2181	Polarity T1097 positive
+A2182	Aspect T1097 food_quality
+T1098	Null 44112 44125	Serene..calm!
+A2183	Polarity T1098 positive
+A2184	Aspect T1098 ambience_general
+T1099	Term 44072 44081	locations
+A2185	Polarity T1099 positive
+A2186	Aspect T1099 location_general
+T1100	Null 44094 44111	Ideally located..
+A2187	Polarity T1100 positive
+A2188	Aspect T1100 location_general
+T1101	Term 44131 44138	Kateifi
+A2189	Polarity T1101 positive
+A2190	Aspect T1101 food_quality
+T1102	Term 44162 44169	Muffins
+A2191	Polarity T1102 positive
+A2192	Aspect T1102 food_quality
+T1103	Term 44201 44210	blueberry
+A2193	Polarity T1103 positive
+A2194	Aspect T1103 food_quality
+T1104	Term 44215 44230	penne carbonara
+A2195	Polarity T1104 positive
+A2196	Aspect T1104 food_quality
+T1105	Null 44239 44259	It's simply the best
+A2197	Polarity T1105 positive
+A2198	Aspect T1105 food_quality
+A2199	Aspect T46 ambience_general
+A2200	Aspect T120 service_general
+A2201	Polarity T126 positive
+A2202	Aspect T296 drinks_quality
+A2203	Polarity T279 positive
+T1106	Term 10177 10186	bar, cafe
+A2204	Polarity T1106 positive
+A2205	Aspect T1106 restaurant_general
+A2206	Polarity T463 positive
+A2207	Aspect T485 food_quality
+A2208	Polarity T572 positive
+A2209	Polarity T600 positive
+A2210	Aspect T634 service_general
+T701	Term 27220 27224	beer
+A1390	Polarity T701 negative
+A1391	Aspect T701 drinks_quality
+A2211	Polarity T689 negative
+A2212	Aspect T1085 restaurant_miscellaneous
+T249	Term 9045 9055	spicy soup
+A494	Polarity T249 positive
+A495	Aspect T249 food_quality
+T1107	Term 12466 12470	food
+A2213	Polarity T1107 positive
+A2214	Aspect T1107 food_quality
+T1108	Term 12489 12496	service
+A2215	Polarity T1108 negative
+A2216	Aspect T1108 service_general
+T618	Term 24075 24081	dishes
+A1226	Polarity T618 positive
+A1227	Aspect T618 food_quality
+T1109	Null 27630 27673	They think they are saving a few pennies...
+A2217	Polarity T1109 negative
+A2218	Aspect T1109 service_general
+T254	Term 9192 9205	All In burger
+A504	Polarity T254 positive
+A505	Aspect T254 food_quality
+T323	Term 11995 12010	Ureshii Kitchen
+A640	Polarity T323 positive
+A641	Aspect T323 restaurant_general
+T317	Term 11767 11778	1/2 & 1/2's
+A628	Polarity T317 positive
+A629	Aspect T317 drinks_quality
+T318	Term 29267 29272	Shack
+A630	Polarity T318 positive
+A631	Aspect T318 food_prices
+T194	Term 7360 7366	coffee
+A384	Polarity T194 positive
+A385	Aspect T194 drinks_quality
+T358	Term 13595 13612	California burger
+A710	Polarity T358 positive
+A711	Aspect T358 food_quality
+T148	Term 5648 5653	staff
+A292	Polarity T148 negative
+A293	Aspect T148 service_general
+T223	Term 8216 8221	staff
+A442	Polarity T223 positive
+A443	Aspect T223 service_general
+T743	Term 36761 36797	cross between a gyro and a hamburger
+A1474	Polarity T743 positive
+A1475	Aspect T743 food_quality
+T927	Term 32534 32544	Quesadilla
+A1842	Polarity T927 positive
+A1843	Aspect T927 food_prices
+T1110	Term 1183 1198	Double cheeseBK
+A2219	Polarity T1110 positive
+A2220	Aspect T1110 food_quality
+T1111	Null 1384 1421	Turn it down a tad for eating please!
+A2221	Polarity T1111 negative
+A2222	Aspect T1111 ambience_general
+T185	Term 6943 6959	red-velvet cakes
+A366	Polarity T185 positive
+A367	Aspect T185 food_quality
+T961	Term 38482 38499	milk and espresso
+A1910	Polarity T961 positive
+A1911	Aspect T961 food_style_options
+T686	Term 26603 26618	outdoor seating
+A1361	Polarity T686 negative
+A1362	Aspect T686 ambience_general
+T1112	Term 5464 5475	tuna tartar
+A2223	Polarity T1112 positive
+A2224	Aspect T1112 food_quality
+T1113	Term 5484 5495	Ion martini
+A2225	Polarity T1113 positive
+A2226	Aspect T1113 drinks_quality
+T1114	Null 17203 17230	Best $12 I have ever spent.
+A2227	Polarity T1114 positive
+A2228	Aspect T1114 restaurant_prices
+T446	Term 17357 17367	ice creams
+A886	Polarity T446 positive
+A887	Aspect T446 food_quality
+T1115	Term 17379 17420	Chantilly and Nocciola variegato gianduja
+A2229	Polarity T1115 positive
+A2230	Aspect T1115 food_quality
+T326	Term 12135 12147	trivia games
+A646	Polarity T326 positive
+A647	Aspect T326 ambience_general
+T1116	Term 13286 13296	gobblerito
+A2231	Polarity T1116 positive
+A2232	Aspect T1116 food_quality
+T350	Term 13803 13808	style
+A694	Polarity T350 positive
+A695	Aspect T350 ambience_general
+T369	Term 14225 14257	Basically lived here for a week.
+A732	Polarity T369 positive
+A733	Aspect T369 restaurant_general
+T1117	Term 14290 14311	European cafe culture
+A2233	Polarity T1117 positive
+A2234	Aspect T1117 ambience_general
+T383	Term 14388 14408	presentation of food
+A760	Polarity T383 positive
+A761	Aspect T383 food_style_options
+T1118	Null 15535 15633	If you haven't experienced the dinner theater and formal dining experience, you're in for a treat!
+A2235	Polarity T1118 positive
+A2236	Aspect T1118 service_general
+T1119	Null 19443 19467	Been here lots of times.
+A2237	Polarity T1119 positive
+A2238	Aspect T1119 restaurant_general
+T1120	Null 30714 30733	Shit WILL get cray.
+A2239	Polarity T1120 negative
+A2240	Aspect T1120 restaurant_general
+T1121	Term 17119 17125	shisha
+A2241	Polarity T1121 positive
+A2242	Aspect T1121 food_quality
+T1122	Term 39161 39176	Ryne Sandburger
+A2243	Polarity T1122 positive
+A2244	Aspect T1122 food_quality
+T1123	Term 39694 39704	Live Music
+A2245	Polarity T1123 positive
+A2246	Aspect T1123 ambience_general
+T1124	Term 44264 44271	Captain
+A2247	Polarity T1124 negative
+A2248	Aspect T1124 service_general
+T1125	Term 44483 44509	selection of Russian candy
+A2249	Polarity T1125 positive
+A2250	Aspect T1125 food_style_options
+T1126	Term 44511 44518	pelmeni
+A2251	Polarity T1126 positive
+A2252	Aspect T1126 food_quality
+T1127	Null 44542 44561	Highly recommended!
+A2253	Polarity T1127 positive
+A2254	Aspect T1127 restaurant_general
+T1128	Null 44562 44604	Hands down one of my favorite restaurants.
+A2255	Polarity T1128 positive
+A2256	Aspect T1128 restaurant_general
+T1129	Term 44630 44669	BBQ (smoked beef and slow roasted pork)
+A2257	Polarity T1129 positive
+A2258	Aspect T1129 food_quality
+T1130	Term 44717 44721	yuca
+A2259	Polarity T1130 positive
+A2260	Aspect T1130 food_quality
+T1131	Term 44723 44738	fried plantains
+A2261	Aspect T1131 food_quality
+T1132	Term 44744 44753	cornbread
+A2262	Polarity T1132 positive
+A2263	Aspect T1132 food_quality
+T1133	Term 44827 44842	cheese omelette
+A2264	Polarity T1133 positive
+A2265	Aspect T1133 food_quality
+T1134	Null 44901 44970	It was one of the places to visit on my list & I wasn't disappointed.
+A2266	Polarity T1134 positive
+A2267	Aspect T1134 restaurant_general
+T1135	Null 45029 45064	And this is one of the best around.
+A2268	Polarity T1135 positive
+A2269	Aspect T1135 restaurant_general
+T1136	Term 45077 45082	place
+A2270	Polarity T1136 positive
+A2271	Aspect T1136 restaurant_general
+T1137	Term 45121 45126	place
+A2272	Polarity T1137 positive
+A2273	Aspect T1137 restaurant_general
+T1138	Term 45168 45190	dark mocha iced coffee
+A2274	Polarity T1138 positive
+A2275	Aspect T1138 drinks_quality
+T1139	Null 45192 45204	Its awesome.
+A2276	Polarity T1139 positive
+A2277	Aspect T1139 drinks_quality
+T1140	Term 45242 45246	wing
+A2278	Polarity T1140 positive
+A2279	Aspect T1140 food_prices
+T1141	Term 45253 45257	beer
+A2280	Polarity T1141 positive
+A2281	Aspect T1141 drinks_quality
+T1142	Null 45248 45298	Iove beer here, good for chilling out with friends
+A2282	Polarity T1142 positive
+A2283	Aspect T1142 restaurant_miscellaneous
+T1143	Term 45309 45318	black tea
+A2284	Polarity T1143 positive
+A2285	Aspect T1143 drinks_quality
+T1144	Term 45348 45356	7-eleven
+A2286	Polarity T1144 positive
+A2287	Aspect T1144 restaurant_general
+T1145	Term 45373 45381	managers
+A2288	Polarity T1145 positive
+A2289	Aspect T1145 service_general
+T1146	Term 45386 45391	staff
+A2290	Polarity T1146 positive
+A2291	Aspect T1146 service_general
+T1147	Term 45420 45428	pancakes
+A2292	Polarity T1147 positive
+A2293	Aspect T1147 food_quality
+T1148	Term 45470 45474	menu
+A2294	Polarity T1148 negative
+A2295	Aspect T1148 food_quality
+T1149	Term 45500 45515	chicken shwarma
+A2296	Polarity T1149 positive
+A2297	Aspect T1149 food_quality
+T1150	Term 45567 45574	noodles
+A2298	Polarity T1150 negative
+A2299	Aspect T1150 food_style_options
+T1151	Term 45593 45600	shrimps
+A2300	Polarity T1151 negative
+A2301	Aspect T1151 food_style_options
+T1152	Term 45637 45641	food
+A2302	Polarity T1152 positive
+A2303	Aspect T1152 food_quality
+T1153	Term 45643 45649	drinks
+A2304	Polarity T1153 positive
+A2305	Aspect T1153 drinks_quality
+T1154	Term 45651 45664	entertainment
+A2306	Polarity T1154 positive
+A2307	Aspect T1154 ambience_general
+T1155	Null 45632 45677	Good food, drinks, entertainment, & prices!!!
+A2308	Polarity T1155 positive
+A2309	Aspect T1155 restaurant_prices
+A2310	Polarity T1131 positive

@@ -1,9 +1,15 @@
 # textsent
+### Master Degree in Data Science and Economics
+## Text Mining and Sentiment Analysis
+### Prof. Alfio Ferrara
+
 Examples and code chunks for the course of text mining and sentiment analysis.
 
-## Note
-##### DATA DOWNLOADS
+**Repository organization**
 
-- yelp_example_1_small.tsv: https://island.ricerca.di.unimi.it/~alfio/shared/yelp_example_1_small.tsv
-- Brat-project: http://island.ricerca.di.unimi.it/home/alfio/public_html/shared/textsent/brat-project.zip
-
+- `insights`: different insights and examples on several topics
+- `2019-20`: class materials for 2019-20 Academic Year
+- `2020-21`: class materials for 2020-21 Academic Year
+- `2021-22`: class materials for 2021-22 Academic Year
+- `2022-23`: class materials for 2022-23 Academic Year
+- `2023-24`: class materials for 2023-24 Academic Year
