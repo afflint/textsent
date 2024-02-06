@@ -1,4 +1,4 @@
-## Notes for the lectures of 5th and 6th of February
+## Introduction to n-grams and language models
 
 ### Recap
 
