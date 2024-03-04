@@ -50,7 +50,7 @@ class NaiveMarkovLM:
     
     def generate(self, prefix: tuple[str] = None, max_len: int = 100):
         if prefix is None:
-            prefix = ('#S', '#S')
+            prefix = tuple(['#S']*(self.n-1))
         else:
             prefix = prefix
         count = len(prefix)
