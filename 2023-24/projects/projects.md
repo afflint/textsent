@@ -1,8 +1,6 @@
-**Master Degree in Data Science and Economics**
+**Text Mining and Sentiment Analysis - Master Degree in Data Science and Economics**
 
-## Text Mining and Sentiment Analysis
-
-### **Prof. Alfio Ferrara**
+**Prof. Alfio Ferrara**
 
 *Department of Computer Science, Università degli Studi di Milano
 Room 7012 via Celoria 18, 20133 Milano, Italia <a href="mailto:alfio.ferrara@unimi.it">alfio.ferrara@unimi.it</a>*
@@ -11,11 +9,13 @@ Room 7012 via Celoria 18, 20133 Milano, Italia <a href="mailto:alfio.ferrara@uni
 
 # Ideas for final projects
 
+[TOC]
+
 ## Instructions
 
 The final project consists in the preparation of a short study on one of the topics of the course, identifying a precise research question and measurable objectives. The project will propose a methodology for solving the research question and provide an experimental verification of the results obtained according to results evaluation metrics. The emphasis is not on obtaining high performance but rather on the critical discussion of the results obtained in order to understand the potential effectiveness of the proposed methodology.
 
-The results must be documented in a short article of not less than 4 pages and no more than 8, composed according to the guidelines available here: [template](https://preview.springer.com/gp/livingreviews/latex-templates) and using the corresponding $ \ LaTeX $ or MS Word templates. Students have also to provide access to a <a href="https://github.com/">GitHub</a> repository containing the code and reproducible experimental results.
+The results must be documented in a short article of not less than 4 pages and no more than 8, composed according to the guidelines available here: [template](https://preview.springer.com/gp/livingreviews/latex-templates) and using the corresponding $\LaTeX$ or MS Word templates. Students have also to provide access to a <a href="https://github.com/">GitHub</a> repository containing the code and reproducible experimental results.
 
 Finally, the project will be discussed after a 10 minutes presentation in English with slides. 
 
